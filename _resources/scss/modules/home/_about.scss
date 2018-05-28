@@ -1,0 +1,32 @@
+.section--home-about {
+  padding-top: 2 * $base-spacing;
+  padding-bottom: 2 * $base-spacing;
+  @media screen and (min-width: $medium-screen) {
+    text-align: center;
+  }
+  .section-heading {
+    font-size: modular-scale(3);
+    margin-bottom: 2 * $base-spacing;
+  }
+}
+
+.home-about--wrapper {
+  @media screen and (min-width: $medium-screen) {
+    display: flex;
+    flex-direction: row;
+  }
+}
+.home-about--item {
+  margin-bottom: 1.5 * $base-spacing;
+  svg {
+    width: 2 * $base-spacing;
+    margin-bottom: $small-spacing/2;
+    height: auto;
+  }
+  @media screen and (min-width: $medium-screen) {
+    flex: 1 1 0;
+    + .home-about--item {
+      margin-left: 1.5 * $base-spacing;
+    }
+  }
+}

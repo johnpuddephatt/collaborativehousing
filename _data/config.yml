@@ -1,0 +1,12 @@
+title: '**Collaborative** Housing'
+email: john@jdp.org.uk
+description: |
+  Site description from config
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.url.com" # the base hostname & protocol for your site, e.g. http://example.com
+footer: "**Company** is a company registered in England and Wales, Company number 123456"
+social:
+  - twitter: twittername
+  - facebook: facebookname
+  - instagram: instagramname
+date_format: "%d.%m.%y "

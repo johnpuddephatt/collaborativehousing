@@ -1,0 +1,14 @@
+<div class="container container--home-blog">
+  <h2 class="section-heading">{{ include.title | default: 'Blog' }}</h2>
+  <div class="home-blog--wrapper">
+    {% for post in site.posts limit:3 %}
+      <a href="{% if post.external_link %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}" class="home-blog--item" data-aos="fade-up" data-aos-ratio=".25" data-aos-delay="{{ forloop.index | minus: 1 |  times:200 }}">
+        <img class="home-blog--item--image" src="{{ post.image }}" />
+        <h3 class="home-blog--item--title">{{ post.title }}</h3>
+        <p class="home-blog--item--excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 120 }} </p>
+        <div class="home-blog--item--date">{{ post.date | date: site.data.config.date_format }}</div>
+        <span>Read more &rarr;</span>
+      </a>
+    {% endfor %}
+  </div>
+</div>

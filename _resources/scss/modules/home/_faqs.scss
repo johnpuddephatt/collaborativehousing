@@ -1,0 +1,39 @@
+.section--home-faqs {
+  padding-top: 2 * $base-spacing;
+  padding-bottom: 2 * $base-spacing;
+
+  h3 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  
+  h3 button {
+    all: inherit;
+    border: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: $small-spacing 0;
+    border-top: $base-border;
+
+
+  }
+
+  h3 button:focus svg {
+    outline: 2px solid;
+  }
+
+  button svg {
+    height: 1em;
+    margin-left: 0.5em;
+  }
+
+  [aria-expanded="true"] .vert {
+    display: none;
+  }
+
+  [aria-expanded] rect {
+    fill: currentColor;
+  }
+
+}

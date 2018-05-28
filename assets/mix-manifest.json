@@ -1,0 +1,14 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/app.es6.js": "/js/app.es6.js",
+    "/images/cfo.png": "/images/cfo.png",
+    "/images/ocf.png": "/images/ocf.png",
+    "/images/oclt.png": "/images/oclt.png",
+    "/fonts/neue_hans_kendrick_bold.woff": "/fonts/neue_hans_kendrick_bold.woff",
+    "/fonts/neue_hans_kendrick_bold.woff2": "/fonts/neue_hans_kendrick_bold.woff2",
+    "/fonts/neue_hans_kendrick_heavy.woff": "/fonts/neue_hans_kendrick_heavy.woff",
+    "/fonts/neue_hans_kendrick_heavy.woff2": "/fonts/neue_hans_kendrick_heavy.woff2",
+    "/fonts/neue_hans_kendrick_regular.woff": "/fonts/neue_hans_kendrick_regular.woff",
+    "/fonts/neue_hans_kendrick_regular.woff2": "/fonts/neue_hans_kendrick_regular.woff2"
+}

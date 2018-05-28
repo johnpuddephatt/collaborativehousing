@@ -1,0 +1,41 @@
+.section--page-header__home {
+  height: 100%;
+  height: calc(100vh - #{4 * $base-spacing});
+  position: relative;
+}
+
+.page-title__home {
+  font-size: modular-scale(5);
+  font-weight: 900;
+  line-height: $heading-line-height;
+  width: 85%;
+  @media screen and (min-width: $medium-screen) {
+    width: 75%;
+  }
+  @media screen and (orientation: landscape) {
+    width: 60%;
+    @media screen and (min-width: $large-screen) {
+      width: 50%;
+    }
+  }
+}
+
+.section--home--hero--image {
+  position: absolute;
+  display: block;
+
+  height: auto;
+  width: 160%;
+  left: -30%;
+  bottom: -5%;
+  z-index: -9;
+  @media screen and (orientation: landscape) {
+    width: 120%;
+    left: -10%;
+    @media screen and (min-width: $large-screen) {
+      width: 100%;
+      left: 0;
+      bottom:-10%;
+    }
+  }
+}

@@ -1,0 +1,47 @@
+<footer class="site-footer">
+  <div class="container">
+
+    {% comment %}
+    {% if site.data.config.footer %}
+      <div class="site-footer--company">
+       {{ site.data.config.footer | markdownify }}
+      </div>
+    {% endif %}
+    {% endcomment %}
+
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.data.navigation.footer_pages %}
+      {% if page_paths %}
+      <div class="site-footer--links">
+        <h2 class="site-footer--header">Site links</h2>
+
+        {% for path in page_paths %}
+          {% assign my_page = site.pages | where: "path", path | first %}
+          {% if my_page.title %}
+            <a class="page-link" href="{{ my_page.url | relative_url | replace: '.html' '' }}">{{ my_page.title | escape }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    {% comment %}
+     {% if site.data.config.social %}
+      <div class="site-footer--social">
+        <h2 class="site-footer---header">Social</h2>
+        {% include social.html %}
+      </div>
+    {% endif %}
+    {% endcomment %}
+    <div class="site-footer--collaboration">
+      <div class="site-footer--collaboration--logos">
+        <img src="/assets/images/oclt.png" alt="Oxfordshire Community Land Trust logo">
+        <img src="/assets/images/ocf.png" alt="Oxfordshire Community Foundation logo">
+        <img src="/assets/images/cfo.png" alt="Community First Oxford logo">
+      </div>
+      <div class="site-footer--collaboration--text">
+        <h2 class="site-footer--header">We’re a partnership</h2>
+        <p>Oxfordshire Community Land Trust, Community First Oxfordshire and Oxfordshire Community Foundation have joined together to create a hub which can support community groups across the county to develop their own housing solutions.</p>
+      </div>
+    </div>
+  </div>
+</footer>
