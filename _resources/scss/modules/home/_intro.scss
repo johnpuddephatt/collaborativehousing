@@ -7,18 +7,30 @@
 }
 
 .home-intro--wrapper {
-  @media screen and (min-width: $medium-screen) {
+  @media screen and (orientation: landscape) {
     display: flex;
     flex-direction: row;
   }
 }
 
 .home-intro--intro {
-  margin-right: 6 * $base-spacing;
+  margin: 0 $base-spacing 2 * $base-spacing;
+  text-align: center;
+  @media screen and (orientation: landscape) {
+    text-align: left;
+    margin: 0;
+    margin-right: 3 * $base-spacing;
+    @media screen and (min-width: $large-screen) {
+      margin-right: 6 * $base-spacing;
+    }
+  }
 }
 
 .home-intro--item {
-  margin-bottom: $base-spacing;
+  margin: $base-spacing;
+  @media screen and (orientation: landscape) {
+    margin: 0 0 $base-spacing;
+  }
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -40,5 +52,14 @@
 }
 
 .home-intro--item--icon {
-  margin-right: $small-spacing;
+  margin-right: $base-spacing;
+}
+
+.section--home--intro--image {
+  width: 200%;
+  margin-left: -15%;
+  @media screen and (orientation: landscape) {
+    width: 100%;
+    margin-left: 0;
+  }
 }

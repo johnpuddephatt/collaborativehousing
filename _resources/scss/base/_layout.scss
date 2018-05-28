@@ -11,6 +11,8 @@ html {
 html,
 body {
   height: 100%;
+  width: 100%;
+  // overflow-x: hidden;
   margin: 0;
 }
 
@@ -69,8 +71,15 @@ body {
 
 
 .section {
-  border-left: 2 * $base-spacing solid white;
-  border-right: 2 * $base-spacing solid white;
+  width: 100%;
+  // overflow-x: hidden;
+  // overflow-y: visible;
+  overflow: hidden;
+
+  @media screen and (min-width: $medium-screen) {
+    border-left: 2 * $base-spacing solid white;
+    border-right: 2 * $base-spacing solid white;
+  }
 }
 
 .page-content, .post-content {

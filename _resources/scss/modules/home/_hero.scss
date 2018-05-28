@@ -1,6 +1,9 @@
 .section--page-header__home {
-  height: 100%;
-  height: calc(100vh - #{4 * $base-spacing});
+  height: 75%;
+  @media screen and (orientation: landscape) {
+    height: 100%;
+    height: calc(100vh - #{4 * $base-spacing});
+  }
   position: relative;
 }
 
@@ -8,15 +11,13 @@
   font-size: modular-scale(5);
   font-weight: 900;
   line-height: $heading-line-height;
-  width: 85%;
-  @media screen and (min-width: $medium-screen) {
-    width: 75%;
-  }
+
+  text-align: center;
+
   @media screen and (orientation: landscape) {
     width: 60%;
-    @media screen and (min-width: $large-screen) {
-      width: 50%;
-    }
+    text-align: left;
+    width: 50%;
   }
 }
 
@@ -25,8 +26,8 @@
   display: block;
 
   height: auto;
-  width: 160%;
-  left: -30%;
+  width: 200%;
+  left: -75%;
   bottom: -5%;
   z-index: -9;
   @media screen and (orientation: landscape) {

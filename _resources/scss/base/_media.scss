@@ -11,4 +11,5 @@ picture {
 svg {
   width: 100%;
   height: auto;
+  backface-visibility: hidden;
 }

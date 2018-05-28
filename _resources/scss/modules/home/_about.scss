@@ -1,19 +1,22 @@
 .section--home-about {
+  text-align: center;
   padding-top: 2 * $base-spacing;
   padding-bottom: 2 * $base-spacing;
-  @media screen and (min-width: $medium-screen) {
-    text-align: center;
-  }
   .section-heading {
     font-size: modular-scale(3);
-    margin-bottom: 2 * $base-spacing;
+    margin: 0 $base-spacing 2 * $base-spacing;
+    @media screen and (orientation: landscape) {
+      margin: 0 0 2 * $base-spacing;
+    }
   }
 }
 
 .home-about--wrapper {
-  @media screen and (min-width: $medium-screen) {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  @media screen and (orientation: landscape) {
+    flex-wrap: nowrap;
   }
 }
 .home-about--item {
@@ -23,10 +26,22 @@
     margin-bottom: $small-spacing/2;
     height: auto;
   }
-  @media screen and (min-width: $medium-screen) {
+  flex: 1 1 50%;
+  padding: $base-spacing $small-spacing 0;
+  @media screen and (orientation: landscape) {
     flex: 1 1 0;
+    padding: 0;
     + .home-about--item {
       margin-left: 1.5 * $base-spacing;
     }
+  }
+}
+
+.section--home--about--image {
+  width: 180%;
+  margin-left: -80%;
+  @media screen and (orientation: landscape) {
+    width: 100%;
+    margin-left: 0;
   }
 }
