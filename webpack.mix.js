@@ -45,7 +45,6 @@ mix.browserSync({
 }
 
 mix.js('_resources/js/app.js', 'js/');
-mix.copy('_resources/js/app.js', 'assets/js/app.es6.js');
 mix.copy('_resources/images/**', 'assets/images/');
 mix.copy('_resources/fonts/**', 'fonts/');
 
