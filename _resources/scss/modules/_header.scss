@@ -12,9 +12,8 @@
   line-height: $base-line-height;
   color: $base-font-color;
   font-weight: 700;
-  word-spacing: -.25em;
   text-transform: lowercase;
-  strong {
+  span {
     color: $turquoise;
   }
 }

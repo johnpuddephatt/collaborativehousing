@@ -1,5 +1,5 @@
 .section--page-header__home {
-  height: 75%;
+  height: 80%;
   @media screen and (orientation: landscape) {
     height: 100%;
     height: calc(100vh - #{4 * $base-spacing});
@@ -27,7 +27,7 @@
 
   height: auto;
   width: 200%;
-  left: -75%;
+  left: -80%;
   bottom: -5%;
   z-index: -9;
   @media screen and (orientation: landscape) {
