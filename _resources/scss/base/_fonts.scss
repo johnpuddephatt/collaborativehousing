@@ -1,14 +1,14 @@
-@include font-face("Neue Hans Kendrick", "../fonts/neue_hans_kendrick_regular", $file-formats: woff2 woff){
+@include font-face("Neue Hans Kendrick CH", "/collaborativehousing/assets/fonts/neue_hans_kendrick_regular", $file-formats: woff2 woff){
   font-style: normal;
   font-weight: 400;
 }
 
-@include font-face("Neue Hans Kendrick", "../fonts/neue_hans_kendrick_bold", $file-formats: woff2 woff){
+@include font-face("Neue Hans Kendrick CH", "/collaborativehousing/assets/fonts/neue_hans_kendrick_bold", $file-formats: woff2 woff){
   font-style: normal;
   font-weight: 700;
 }
 
-@include font-face("Neue Hans Kendrick", "../fonts/neue_hans_kendrick_heavy", $file-formats: woff2 woff){
+@include font-face("Neue Hans Kendrick CH", "/collaborativehousing/assets/fonts/neue_hans_kendrick_heavy", $file-formats: woff2 woff){
   font-style: normal;
   font-weight: 900;
 }
