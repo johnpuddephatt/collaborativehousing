@@ -16,6 +16,10 @@ body {
   margin: 0;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 %sr-only {
 	position: absolute !important;
 	clip: rect(1px, 1px, 1px, 1px);
@@ -72,10 +76,6 @@ body {
 
 .section {
   width: 100%;
-  // overflow-x: hidden;
-  // overflow-y: visible;
-  overflow: hidden;
-
   @media screen and (min-width: $medium-screen) {
     border-left: 2 * $base-spacing solid white;
     border-right: 2 * $base-spacing solid white;
