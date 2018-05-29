@@ -1,7 +1,12 @@
 .site-footer {
   background-image: linear-gradient(to right, $red, $red2);
   padding: 2 * $base-spacing 0;
+  @extend %padded-container;
   .container {
+    text-align: center;
+    @media screen and (orientation: landscape){
+      text-align: left;
+    }
     @media screen and (min-width: $medium-screen){
       display: flex;
       flex-direction: row;

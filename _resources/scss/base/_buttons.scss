@@ -35,4 +35,7 @@
       background-color: $action-color;
     }
   }
+  &__large {
+    font-size: modular-scale(2);
+  }
 }

@@ -33,10 +33,10 @@
   @media screen and (orientation: landscape) {
     width: 120%;
     left: -10%;
+    top: -2 * $base-spacing;
     @media screen and (min-width: $large-screen) {
       width: 100%;
       left: 0;
-      top: 0%;
     }
   }
 }

@@ -5,4 +5,9 @@
   .section-heading {
     font-size: modular-scale(4);
   }
+  .section-subheading {
+    font-size: modular-scale(1);
+    font-weight: 700;
+    margin-bottom: $base-spacing;
+  }
 }
