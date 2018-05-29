@@ -1,8 +1,11 @@
 .section--page-header__home {
-  height: 80%;
+  height: 80vh;
+  @media screen and (min-width: $medium-screen) {
+    height: 100vh;
+  }
   @media screen and (orientation: landscape) {
-    height: 100%;
-    // height: calc(100vh - #{4 * $base-spacing});
+    height: 100vh;
+    height: calc(100vh - #{4 * $base-spacing});
   }
   position: relative;
 }
@@ -28,12 +31,14 @@
   height: auto;
   width: 200%;
   left: -80%;
-  top: 25%;
+  bottom: 2 * $base-spacing;
+
   z-index: -9;
   @media screen and (orientation: landscape) {
     width: 120%;
+    bottom: 0;
+
     left: -10%;
-    top: -2 * $base-spacing;
     @media screen and (min-width: $large-screen) {
       width: 100%;
       left: 0;
