@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "include-media": "^1.4.9",
-    "rellax": "^1.6.2"
+    "rellax": "^1.6.2",
+    "smoothscroll": "^0.4.0"
   }
 }

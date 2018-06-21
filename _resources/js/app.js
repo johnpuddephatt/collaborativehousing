@@ -1,3 +1,5 @@
+var smoothScroll = require('smoothscroll');
+
 import Rellax from 'rellax';
 var rellax = new Rellax('svg g[data-rellax-speed]', {
     center: true,
@@ -6,6 +8,15 @@ var rellax = new Rellax('svg g[data-rellax-speed]', {
 
 (function() {
 
+  var siteNav = document.querySelector('.trigger');
+  siteNav.addEventListener('click',()=>{
+    console.log('triggered');
+    document.getElementById('nav-trigger').checked = false;
+  });
+
+  /******
+  *  Accordion
+  ******/
 
   // Get all the <h2> headings
   const headings = document.querySelectorAll('.container--faqs h3')
