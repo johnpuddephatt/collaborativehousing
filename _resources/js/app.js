@@ -2,8 +2,9 @@ var smoothScroll = require('smoothscroll');
 
 import Rellax from 'rellax';
 var rellaxTargets = document.querySelectorAll('svg g[data-rellax-speed]');
-if(rellaxTargets) {
-  var rellax = new Rellax(rellaxTargets, {
+
+if(rellaxTargets.length > 0) {
+  var rellax = new Rellax('svg g[data-rellax-speed]', {
     center: true,
     round: true,
   });

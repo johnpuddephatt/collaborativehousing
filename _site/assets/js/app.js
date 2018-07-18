@@ -89,8 +89,9 @@ var smoothScroll = __webpack_require__(3);
 
 
 var rellaxTargets = document.querySelectorAll('svg g[data-rellax-speed]');
-if (rellaxTargets) {
-  var rellax = new __WEBPACK_IMPORTED_MODULE_0_rellax___default.a(rellaxTargets, {
+
+if (rellaxTargets.length > 0) {
+  var rellax = new __WEBPACK_IMPORTED_MODULE_0_rellax___default.a('svg g[data-rellax-speed]', {
     center: true,
     round: true
   });

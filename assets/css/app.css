@@ -1124,6 +1124,7 @@ label[for="nav-trigger"] {
 }
 
 .status {
+  margin-top: 1.6rem;
   padding: 1.6rem;
   background-color: #F9B529;
 }
