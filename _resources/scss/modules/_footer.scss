@@ -72,9 +72,13 @@
     flex-direction: row;
     align-items: center;
     .site-footer--collaboration--logos {
-      flex: 0 0 50%;
-      margin-right: 2 * $base-spacing;
+      flex: 0 0 45%;
+      padding-right: 2 * $base-spacing;
     }
+    .site-footer--collaboration--text {
+      flex: 0 0 45%;
+    }
+
   }
   .site-footer--header {
     font-weight: 700;
