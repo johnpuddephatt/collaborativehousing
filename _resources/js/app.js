@@ -1,16 +1,18 @@
 var smoothScroll = require('smoothscroll');
 
 import Rellax from 'rellax';
-var rellax = new Rellax('svg g[data-rellax-speed]', {
+var rellaxTargets = document.querySelectorAll('svg g[data-rellax-speed]');
+if(rellaxTargets) {
+  var rellax = new Rellax(rellaxTargets, {
     center: true,
     round: true,
   });
+}
 
 (function() {
 
   var siteNav = document.querySelector('.trigger');
   siteNav.addEventListener('click',()=>{
-    console.log('triggered');
     document.getElementById('nav-trigger').checked = false;
   });
 

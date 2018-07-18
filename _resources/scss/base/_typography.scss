@@ -55,3 +55,23 @@ hr {
   border-top: 0;
   margin: $base-spacing 0;
 }
+
+
+blockquote {
+  color: $red3;
+  font-weight: 600;
+  font-size: modular-scale(2);
+  line-height: $heading-line-height;
+  margin: 2 * $base-spacing $base-spacing;
+}
+
+.page-title, .post-title {
+  font-size: modular-scale(4);
+  margin-bottom: 0;
+}
+
+.page-subtitle {
+  margin-top: $base-spacing;
+  font-size: modular-scale(2);
+  font-weight: 600;
+}
