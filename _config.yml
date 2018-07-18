@@ -58,6 +58,12 @@ host:    127.0.0.1
 baseurl: "/" # does not include hostname
 show_dir_listing: false
 
+email: john@jdp.org.uk
+description: |
+  Site description from config
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://collaborativehousing.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
+
 # Outputting
 permalink:     date
 paginate_path: /page:num

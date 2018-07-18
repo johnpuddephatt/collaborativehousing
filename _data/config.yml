@@ -2,8 +2,8 @@
 email: john@jdp.org.uk
 description: |
   Site description from config
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.url.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://collaborativehousing.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 footer: "Collaborative Housing is a company registered in England and Wales, Company number 123456"
 social:
   - twitter: twittername
