@@ -1,19 +1,25 @@
 ---
 layout: default
 ---
-<header class="page-header section">
-  {% include /svg/page-header.svg %}
 
-  <div class="container container__narrow">
+<div class="section">
+  {% include /svg/page-header.svg %}
+</div>
+
+<div class="container container__narrow page-wrapper">
+  <header class="page-header section">
     <h1 class="page-title">{{ page.title | escape }}</h1>
     <div class="page-subtitle">{{ page.subtitle | escape }}</div>
-  </div>
-</header>
-
-<div class="page-content section">
-  <div class="container container__narrow">
-    {{ content | markdownify }}
+  </header>
+  <div class="page-content section">
+      {{ content | markdownify }}
   </div>
 </div>
+
+<div class="section">
+  {% include /svg/page-footer.svg %}
+</div>
+
+
 
 {{ page.scripts }}

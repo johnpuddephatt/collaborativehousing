@@ -1,26 +1,24 @@
 .section--page-header__home {
+  position: relative;
   height: 140vw;
   max-height: 100vh;
   @media screen and (orientation: landscape) {
     max-height: 100vh;
     height: calc(100vh - #{4 * $base-spacing});
   }
-  position: relative;
 }
 
 .page-title__home {
-  font-size: modular-scale(4);
+  font-size: modular-scale(5);
   font-weight: 900;
   line-height: $heading-line-height;
-
   text-align: center;
-
   @media screen and (orientation: landscape) {
     text-align: left;
-    margin-bottom: 2 * $base-spacing;
-    width: 75%;
+    margin-bottom: $base-spacing;
+    width: 70%;
     @media screen and (min-width: $large-screen) {
-      width: 50%;
+      width: 45%;
     }
   }
 }
@@ -28,16 +26,14 @@
 .section--home--hero--image {
   position: absolute;
   display: block;
-
   height: auto;
   width: 200%;
   left: -80%;
   bottom: -2 * $base-spacing;
-
   z-index: -9;
   @media screen and (orientation: landscape) {
     width: 120%;
-    bottom: 0;
+    bottom: -$base-spacing;
 
     left: -10%;
     @media screen and (min-width: $large-screen) {

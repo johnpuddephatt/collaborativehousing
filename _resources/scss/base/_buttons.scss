@@ -3,7 +3,6 @@
   background-color: $action-color;
   background-image: linear-gradient(to right, $red2, $red3);
   border: 0;
-  text-transform: lowercase;
   border-radius: $base-spacing;
   color: #fff;
   cursor: pointer;
@@ -12,8 +11,8 @@
   font-size: $base-font-size;
   -webkit-font-smoothing: antialiased;
   font-weight: 700;
-  line-height: 1;
-  padding: $small-spacing $base-spacing;
+  line-height: 2 * $base-spacing;
+  padding: 0 $base-spacing;
   text-align: center;
   text-decoration: none;
   transition: background-color $base-duration $base-timing;

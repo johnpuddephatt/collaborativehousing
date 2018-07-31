@@ -10,6 +10,7 @@
   @media screen and (orientation: landscape) {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
   }
 }
 
@@ -34,6 +35,7 @@
   margin: $base-spacing;
   @media screen and (orientation: landscape) {
     margin: 0 0 $base-spacing;
+    max-width: 30em;
   }
   display: flex;
   flex-direction: row;

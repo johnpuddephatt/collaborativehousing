@@ -46,19 +46,11 @@ body {
   //   border-left: 3 * $base-spacing solid white;
   //   border-right: 3 * $base-spacing solid white;
   // }
-  padding-left: $small-spacing;
-  padding-right: $small-spacing;
-  @media screen and (min-width: $medium-screen) {
-    padding-left: $base-spacing;
-    padding-right: $base-spacing;
-  }
+  padding-left: $base-spacing;
+  padding-right: $base-spacing;
   @media screen and (min-width: $large-screen) {
     padding-left: 2 * $base-spacing;
     padding-right: 2 * $base-spacing;
-  }
-  @media screen and (min-width: $xl-screen) {
-    padding-left: 3 * $base-spacing;
-    padding-right: 3 * $base-spacing;
   }
 }
 
@@ -78,8 +70,12 @@ body {
 .section {
   width: 100%;
   @media screen and (min-width: $medium-screen) {
-    border-left: 2 * $base-spacing solid white;
-    border-right: 2 * $base-spacing solid white;
+    border-left: $base-spacing solid white;
+    border-right: $base-spacing solid white;
+  }
+  @media screen and (min-width: $large-screen) {
+    border-left-width: 2 * $base-spacing;
+    border-right-width: 2 * $base-spacing;
   }
 }
 

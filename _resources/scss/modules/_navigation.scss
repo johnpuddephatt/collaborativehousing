@@ -21,9 +21,10 @@ label[for="nav-trigger"] {
 
   .page-link {
     color: $base-font-color;
-    line-height: 2 * $base-line-height;
+    line-height: 1.5 * $base-spacing;
     font-weight: 700;
-    font-size: modular-scale(1);
+
+    font-size: modular-scale(0);
     text-transform: lowercase;
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -42,12 +43,13 @@ label[for="nav-trigger"] {
       align-items: center;
       justify-content: center;
       float: right;
+      margin-top: $small-spacing/2;
       width: $base-spacing;
       height: $base-spacing;
       line-height: 0;
       text-align: center;
       > svg path {
-        fill: $medium-gray;
+        fill: $turquoise;
         transition: fill $base-duration;
       }
       &:hover > svg path {
@@ -66,7 +68,7 @@ label[for="nav-trigger"] {
       flex-direction: column;
       align-items: center;
       justify-content: center;
-      background-color: $dark-gray;
+      background-color: $yellow;
       transition: transform $base-duration;
     }
 

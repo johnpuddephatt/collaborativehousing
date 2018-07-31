@@ -1,6 +1,36 @@
+.page-content, .page-header {
+
+}
+
+.page-header-image, .page-footer-image {
+  display: none;
+  @media (min-width: $large-screen) {
+    display: block;
+  }
+}
+
+.page-header-image {
+  margin-top: 3 * $base-spacing;
+}
+
+.page-wrapper {
+    @media (min-width: $large-screen) {
+      position: relative;
+      margin-top: -16 * $base-spacing;
+      margin-bottom: -6 * $base-spacing;
+      z-index: 99;
+      background-color: #fff;
+      box-shadow: 0 1em 20em -1em $light-gray;
+    }
+}
+
+.page-header {
+  padding-top: 4 * $base-spacing;
+}
+
 .page-content {
   font-size: modular-scale(1);
-  margin-bottom: 2 * $base-spacing;
+  padding-bottom: 4 * $base-spacing;
   blockquote {
     @media (min-width: $large-screen) {
       width: 40%;
@@ -40,10 +70,10 @@
   }
   .pullout-box {
     margin: 2 * $base-spacing 0;
-    background-color: $light-blue;
+    background-color: $yellow;
     padding: 2 * $base-spacing 3 * $base-spacing;
-    h2 {
-      margin-bottom: $small-spacing;
+    h2 + p {
+      margin-top: -1.5 * $base-spacing;
     }
     .button {
       margin-top: $base-spacing;
