@@ -24,7 +24,7 @@ label[for="nav-trigger"] {
     line-height: 1.5 * $base-spacing;
     font-weight: 700;
 
-    font-size: modular-scale(0);
+    font-size: modular-scale(1);
     text-transform: lowercase;
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
