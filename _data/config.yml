@@ -1,8 +1,7 @@
 
-email: john@jdp.org.uk
-description: |
-  Site description from config
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://collaborativehousing.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
+
+email: info@communityfirstoxon.org
+
+
 footer: "Collaborative Housing is a company registered in England and Wales, Company number 123456"
 date_format: "%d.%m.%y "
