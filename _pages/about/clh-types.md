@@ -24,7 +24,7 @@ A Tenancy Management Organisation (TMO)  is a means by which council or housing 
 
 ## Self or custom build
 
-In self build projects someone directly organises the design and construction of their new home or they may arrange for an architect/contractor to build their home for them. Custom build homes tend to be those where you work with a specialist developer to help deliver your own home. [Find out more about custom or self builds](www.selfbuildportal.org.uk)
+In self build projects someone directly organises the design and construction of their new home or they may arrange for an architect/contractor to build their home for them. Custom build homes tend to be those where you work with a specialist developer to help deliver your own home. [Find out more about custom or self builds](www.selfbuildportal.org.uk).
 
 **In practice, these community-led mechanisms are often used in combination Some of these terms relate to land ownership, some to design, some to build methods, and some to governance principles. A scheme may be held in a community land trust to lock in affordability in perpetuity, the layout of the dwellings and common spaces may be designed according to co-housing principles, and the scheme may be managed according to co-operative or tenancy self-management principles.**
 
