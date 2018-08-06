@@ -1,4 +1,4 @@
 header_pages:
-  - '_pages/about.html'
-  - '_pages/services.html'
-  - '_pages/contact.html'
+  - '_pages/about.md'
+  - '_pages/services.md'
+  - '_pages/contact.md'
