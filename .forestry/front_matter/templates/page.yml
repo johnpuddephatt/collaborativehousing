@@ -18,3 +18,7 @@ fields:
   name: scripts
   hidden: true
   description: Remember opening and closing tags
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
