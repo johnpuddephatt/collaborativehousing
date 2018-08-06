@@ -5,8 +5,4 @@ description: |
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://collaborativehousing.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
 footer: "Collaborative Housing is a company registered in England and Wales, Company number 123456"
-social:
-  - twitter: twittername
-  - facebook: facebookname
-  - instagram: instagramname
 date_format: "%d.%m.%y "
