@@ -2,24 +2,58 @@
 layout: page
 title: Our services
 subtitle: We’re here to help people collaborate and learn from each other
+
 ---
-Collaborative Housing will focus on delivering community-led homes making the most of the skills and experience available locally and making it easier to for groups and other stakeholders to collaborate and learn from each other.  
+Collaborative Housing provides information, advice and technical support to those who wish to deliver community-led housing projects. From one-off commissions to full-spectrum support, we offer packages tailored to your needs. We can take you from initial concept to homes on the ground.
 
-Collaborative Housing will provide information, advice and technical support to those who wish to deliver community-led housing projects.  We will also seek to establish partnerships among stakeholders such as local authorities, developers, professional experts and community groups.
+### Support and advice
 
-The hub will provide advice and help and signpost communities, local authorities and other stakeholders to specialist advice as and when necessary.
+* Advising on the different options for community-led housing
+* Providing access to a range of technical support professionals
+* Sharing good practice – what works/ how to address things that go wrong
+* Acting as an intermediary between professionals, local authorities and community group
 
-## How we can help
+### Evidencing and consultation
 
-- Support and advice over the phone and face to face.
-- Information about the different options for community-led housing, feasible delivery routes and legal structures
-- Advice on finding land, funding, housing development and ongoing governance and management
-- Access to a network of technical advisers
-- Access to a network of partners such as landowners, funders, lenders, councils, housing associations, managing agents
+* Advice on finding land
+* Undertaking Housing needs surveys and other research
+* Designing of consultation strategies
+* Facilitating community engagement events
 
-<div class="pullout-box centre">
-  <h2>Need help? Have questions?</h2>
-  <p>Get in touch if you think we could help you.</p>
-  <a class="button" href="/contact/">Contact us</a>
-</div>
- 
+### Governance
+
+* Project visioning
+* Advising on delivery routes and legal structures
+* Establishing a membership and community accountability
+* Determining roles and responsibilities
+* Signposting to specialist legal professionals and services
+
+### Business Planning
+
+* Preparing viable business plans
+* Managing projects
+* Identifying and managing risks / due diligence
+* Negotiating agreements with the local authority – e.g. preparing allocation policies
+* Evaluating and establishing ongoing management arrangements
+
+### Funding
+
+* Sourcing funding for set up, operation and development 
+* Obtaining initial pro bono professional support 
+* Negotiating affordable rents and ground rents 
+* Developing budgeting and financial planning 
+* Managing service charges and sinking funds 
+* Procuring and competitive bidding including the Community Housing Fund 
+
+### Development
+
+* Guiding funding applications, finance and development management 
+* Selecting housing association partners and consultants 
+* Preparing feasibility studies and assessing viability 
+* Identifying sites, valuation, interest negotiation and acquisition 
+* Advising on design and building options 
+* Advising pre-planning / planning application development 
+* Managing contracts 
+* Brokering with developers 
+
+<div class="pullout-box centre"> <h2>Need help? Have questions?</h2> <p>Whether you are a group, Local Authority, landowner or potential development partner please do get in touch with our dedicated community-led housing team.</p> <a class="button" href="/contact/">Contact us</a> </div>
