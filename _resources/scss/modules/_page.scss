@@ -39,7 +39,7 @@
   }
   h2 {
     font-size: modular-scale(2);
-    margin: 2 * $base-spacing 0;
+    margin: 2 * $base-spacing 0 $small-spacing;
   }
   h3 {
     margin-top: $base-spacing;
