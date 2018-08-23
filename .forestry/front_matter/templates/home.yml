@@ -52,7 +52,7 @@ fields:
       max: '3'
 - type: field_group
   name: why_collaborative_housing
-  label: why_collaborative_housing
+  label: Why collaborative housing?
   fields:
   - type: text
     name: heading
