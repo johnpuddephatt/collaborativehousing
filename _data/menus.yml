@@ -2,7 +2,13 @@
 header:
 - weight: 1
   title: About us
-- weight: 2
+- weight: 6
+  title: Contact
+- weight: 4
   title: Services
+- weight: 2
+  title: About us
 - weight: 3
+  title: Services
+- weight: 5
   title: Contact
