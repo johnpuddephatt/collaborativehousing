@@ -22,16 +22,6 @@ fields:
   name: layout
   label: Layout
   hidden: true
-- type: select
-  config:
-    source:
-      type: simple
-    options:
-    - Header
-    - Footer
-  label: Menu
-  name: menu
-  description: Select which menu this page should appear in
 pages:
 - _pages/about.md
 - _pages/how-to.md
