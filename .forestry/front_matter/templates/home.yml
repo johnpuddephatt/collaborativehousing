@@ -10,8 +10,8 @@ fields:
     required: true
   hidden: true
 - type: text
-  name: main_heading
-  label: Main heading
+  name: strapline
+  label: Strapline
 - type: field_group
   name: intro
   label: Intro
@@ -27,47 +27,54 @@ fields:
     label: Button
     fields:
     - type: text
-      name: button_text
+      name: text
       label: Button text
     - type: text
-      name: button_link
+      name: link
       label: Button link
   - type: field_group_list
     label: Intro items
     name: intro_items
     fields:
     - type: text
-      name: intro_item_title
-      label: Intro item title
+      name: title
+      label: Title
     - type: textarea
-      name: intro_item_description
-      label: Intro item description
+      name: description
+      label: Description
     - type: file
-      name: intro_item_image
-      label: Intro item image
+      name: image
+      label: Image
       config:
         maxSize: '1'
     config:
       min: '2'
       max: '3'
-- type: field_group_list
+- type: field_group
   name: why_collaborative_housing
-  label: Why collaborative housing
-  config:
-    max: '4'
-    min: '3'
+  label: why_collaborative_housing
   fields:
   - type: text
-    label: Title
-    name: title
-  - type: textarea
-    name: subtitle
-    label: Subtitle
-  - type: file
-    name: image
-    label: Image
+    name: heading
+    label: Heading
+  - type: field_group_list
+    name: items
+    label: Items
     config:
-      maxSize: '1'
+      max: '4'
+      min: '3'
+    fields:
+    - type: text
+      label: Title
+      name: title
+    - type: textarea
+      name: subtitle
+      label: Subtitle
+    - type: file
+      name: image
+      label: Image
+      config:
+        maxSize: '1'
 - type: text
   name: layout
   label: Layout

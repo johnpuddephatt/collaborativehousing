@@ -3,7 +3,7 @@ layout: default
 ---
 <section class="section section--page-header section--page-header__home">
   <div class="container">
-    <h1 class="page-title page-title__home">Together we can build homes that work for the Thames Valley</h1>
+    <h1 class="page-title page-title__home">{{ page.strapline }}</h1>
     {% include svg/hero.svg %}
   </div>
   <a href="#what" class="jump-link">See what we do</a>
@@ -16,7 +16,7 @@ layout: default
 <section class="section">{% include svg/men-pushing.svg %}</section>
 
 <section class="section section--home-about" id="why">
-  {% include components/home-about.html title="Why do we need collaborative housing?" %}
+  {% include components/home-about.html %}
 </section>
 
 <section class="section">{% include svg/woman-land.svg %}</section>

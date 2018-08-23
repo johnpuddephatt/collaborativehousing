@@ -21,9 +21,10 @@
 }
 .home-about--item {
   margin-bottom: 1.5 * $base-spacing;
-  svg {
+  img {
+    display: block;
     width: 2 * $base-spacing;
-    margin-bottom: $small-spacing/2;
+    margin: 0 auto $base-spacing;
     height: auto;
   }
   flex: 1 1 50%;
