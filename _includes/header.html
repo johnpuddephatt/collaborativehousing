@@ -1,7 +1,7 @@
 <header class="site-header" role="banner">
   <div class="container">
-    <!-- {% assign default_paths = site.pages | map: "path" %}
-    {% assign page_paths = site.data.navigation.header_pages %} -->
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.data.menus.header %}
 
     <a class="site-title" href="{{ "/" | relative_url }}"><span>Collaborative</span>Housing</a>
 
@@ -18,24 +18,12 @@
       </label>
 
       <div class="trigger">
-        <!-- <a class="page-link" href="#what">What we do</a>
-        <a class="page-link" href="#why">Why do it</a>
-        <a class="page-link" href="#contact">Contact us</a> -->
-        <ul>
-        {% for item in site.menus.header %}
-          <li class="menu-item-{{ loop.index }}">
-            <a class="page-link" href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
-          </li>
-        {% endfor %}
-        </ul>
-
-
-        <!-- {% for path in page_paths %}
+        {% for path in page_paths %}
           {% assign my_page = site.pages | where: "path", path | first %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | relative_url | replace: 'index.html' ''}}">{{ my_page.title | escape }}</a>
           {% endif %}
-        {% endfor %} -->
+        {% endfor %}
       </div>
     </nav>
 
