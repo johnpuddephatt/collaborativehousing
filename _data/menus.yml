@@ -1,8 +1,8 @@
 ---
 header:
-- weight: 2
-  title: Our services
-- weight: 1
-  title: About us
 - weight: 3
   title: Contact
+- weight: 1
+  title: About us
+- weight: 2
+  title: Our services
