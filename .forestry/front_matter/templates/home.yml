@@ -9,11 +9,6 @@ fields:
   config:
     required: true
 - type: textarea
-  name: subtitle
-  label: Subtitle
-  config:
-    required: true
-- type: textarea
   label: Scripts
   name: scripts
   hidden: true
@@ -22,3 +17,59 @@ fields:
   name: layout
   label: Layout
   hidden: true
+- type: field_group
+  name: intro
+  label: Intro
+  fields:
+  - type: text
+    name: heading
+    label: Heading
+  - type: textarea
+    label: Subheading
+    name: subheading
+  - type: field_group
+    name: button
+    label: Button
+    fields:
+    - type: text
+      name: button_text
+      label: Button text
+    - type: text
+      name: button_link
+      label: Button link
+  - type: field_group_list
+    label: Intro items
+    name: intro_items
+    fields:
+    - type: text
+      name: intro_item_title
+      label: Intro item title
+    - type: textarea
+      name: intro_item_description
+      label: Intro item description
+    - type: file
+      name: intro_item_image
+      label: Intro item image
+      config:
+        maxSize: '1'
+    config:
+      min: '2'
+      max: '3'
+- type: field_group_list
+  name: why_collaborative_housing
+  label: Why collaborative housing
+  config:
+    max: '4'
+    min: '3'
+  fields:
+  - type: text
+    label: Title
+    name: title
+  - type: textarea
+    name: subtitle
+    label: Subtitle
+  - type: file
+    name: image
+    label: Image
+    config:
+      maxSize: '1'
