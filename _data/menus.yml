@@ -1,6 +1,4 @@
 ---
 header:
-  - url: https://www.oclt.org.uk/
-    title: OCLT
-    identifier: oclt
----
+- weight: 1
+  title: About us
