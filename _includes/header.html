@@ -24,6 +24,11 @@
           <a class="page-link" href="{{ my_page.url | relative_url | replace: 'index.html' ''}}">{{ my_page.title | escape }}</a>
           {% endif %}
         {% endfor %}
+
+        {% for item in site.menus.header %}
+          <a class="page-link" href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+        {% endfor %}
+
       </div>
     </nav>
 
