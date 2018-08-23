@@ -1,6 +1,4 @@
 ---
-  header:
-  - url: /about
-    title: About
-    identifier: about
----
+header:
+- weight: 1
+  title: About us
