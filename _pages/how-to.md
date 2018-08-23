@@ -7,8 +7,8 @@ layout: ''
 published: false
 
 ---
-Resources for different types of community-led housing
+**Resources for different types of community-led housing**
 
-Resources for different stages of your scheme
+**Resources for different stages of your scheme**
 
-Local resources for community-led housing in different parts of the Thames Valley
+**Local resources for community-led housing in different parts of the Thames Valley**
