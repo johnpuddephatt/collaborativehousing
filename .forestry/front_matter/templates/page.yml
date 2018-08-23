@@ -12,7 +12,7 @@ fields:
   name: subtitle
   label: Subtitle
   config:
-    required: true
+    required: false
 - type: textarea
   label: Scripts
   name: scripts
