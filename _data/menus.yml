@@ -1,5 +1,8 @@
 ---
 header:
-- url: OCLT.org.uk
-  weight: 7
-  title: OCLT
+- weight: 2
+  title: Our services
+- weight: 1
+  title: About us
+- weight: 3
+  title: Contact
