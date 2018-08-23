@@ -10,6 +10,7 @@ sections:
   create: all
   match: "**/*"
   templates:
+  - home
   - page
 upload_dir: uploads
 public_path: "/uploads"
