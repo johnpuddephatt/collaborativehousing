@@ -22,3 +22,5 @@ fields:
   name: layout
   label: Layout
   hidden: true
+pages:
+- _pages/how-to.md
