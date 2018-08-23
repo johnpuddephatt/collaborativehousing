@@ -64,6 +64,8 @@ unpublished: false
 whitelist: []
 plugins:
   - jekyll-seo-tag
+  - jekyll-menus
+
 
 # Conversion
 markdown:    kramdown

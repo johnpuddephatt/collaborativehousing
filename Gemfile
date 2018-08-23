@@ -5,6 +5,9 @@ source "https://rubygems.org"
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "jekyll"
-gem "jekyll-feed"
-gem "jekyll-seo-tag"
 
+group :jekyll_plugins do
+   gem "jekyll-menus"
+   gem "jekyll-feed"
+   gem "jekyll-seo-tag"
+end
