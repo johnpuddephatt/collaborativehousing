@@ -22,12 +22,6 @@ fields:
   name: layout
   label: Layout
   hidden: true
-- type: tag_list
-  name: menus
-  label: Menus
-- type: tag_list
-  name: menu
-  label: Menu
 - type: select
   config:
     source:
