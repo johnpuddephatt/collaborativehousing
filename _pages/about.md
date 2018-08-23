@@ -5,7 +5,7 @@ subtitle: We think houses made by people make better homes.
 scripts: ''
 menu:
   header:
-    weight: 1
+    weight: 2
     title: About
 
 ---
