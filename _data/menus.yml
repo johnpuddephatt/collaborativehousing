@@ -1,3 +1,6 @@
 ---
   header:
+  - url: /about
+    title: About
+    identifier: about
 ---
