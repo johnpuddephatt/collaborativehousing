@@ -8,15 +8,10 @@ fields:
   name: title
   config:
     required: true
-- type: textarea
-  label: Scripts
-  name: scripts
   hidden: true
-  description: Remember opening and closing tags
 - type: text
-  name: layout
-  label: Layout
-  hidden: true
+  name: main_heading
+  label: Main heading
 - type: field_group
   name: intro
   label: Intro
@@ -73,3 +68,12 @@ fields:
     label: Image
     config:
       maxSize: '1'
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+- type: textarea
+  label: Scripts
+  name: scripts
+  hidden: true
+  description: Remember opening and closing tags
