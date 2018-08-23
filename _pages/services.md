@@ -4,7 +4,7 @@ title: Our services
 subtitle: We’re here to help people collaborate and learn from each other
 
 ---
-Collaborative Housing provides information, advice and technical support to those who wish to deliver community-led housing projects. From one-off commissions to full-spectrum support, we offer packages tailored to your needs. We can take you from initial concept to homes on the ground.
+The partners who make up Collaborative Housing provide information, advice and technical support to those who wish to deliver community-led housing projects. From one-off commissions to full-spectrum support, experts from across our network offer packages tailored to your needs. Together we can take you from initial concept to homes on the ground.
 
 ### Support and advice
 
@@ -38,22 +38,22 @@ Collaborative Housing provides information, advice and technical support to thos
 
 ### Funding
 
-* Sourcing funding for set up, operation and development 
-* Obtaining initial pro bono professional support 
-* Negotiating affordable rents and ground rents 
-* Developing budgeting and financial planning 
-* Managing service charges and sinking funds 
-* Procuring and competitive bidding including the Community Housing Fund 
+* Sourcing funding for set up, operation and development
+* Obtaining initial pro bono professional support
+* Negotiating affordable rents and ground rents
+* Developing budgeting and financial planning
+* Managing service charges and sinking funds
+* Procuring and competitive bidding including the Community Housing Fund
 
 ### Development
 
-* Guiding funding applications, finance and development management 
-* Selecting housing association partners and consultants 
-* Preparing feasibility studies and assessing viability 
-* Identifying sites, valuation, interest negotiation and acquisition 
-* Advising on design and building options 
-* Advising pre-planning / planning application development 
-* Managing contracts 
-* Brokering with developers 
+* Guiding funding applications, finance and development management
+* Selecting housing association partners and consultants
+* Preparing feasibility studies and assessing viability
+* Identifying sites, valuation, interest negotiation and acquisition
+* Advising on design and building options
+* Advising pre-planning / planning application development
+* Managing contracts
+* Brokering with developers
 
 <div class="pullout-box centre"> <h2>Need help? Have questions?</h2> <p>Whether you are a group, Local Authority, landowner or potential development partner please do get in touch with our dedicated community-led housing team.</p> <a class="button" href="/contact/">Contact us</a> </div>
