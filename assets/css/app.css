@@ -1230,8 +1230,8 @@ label[for="nav-trigger"] {
   }
 }
 
-.home-intro--item svg {
-  width: 3.2rem;
+.home-intro--item img {
+  display: block;
   margin-bottom: 0.4rem;
   height: auto;
 }
@@ -1254,6 +1254,10 @@ label[for="nav-trigger"] {
 
 .home-intro--item--icon {
   margin-right: 1.6rem;
+  width: 3.2rem;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
 }
 
 .section--home--intro--image {
@@ -1344,9 +1348,10 @@ label[for="nav-trigger"] {
   padding: 1.6rem 0.8rem 0;
 }
 
-.home-about--item svg {
+.home-about--item img {
+  display: block;
   width: 3.2rem;
-  margin-bottom: 0.4rem;
+  margin: 0 auto 1.6rem;
   height: auto;
 }
 
