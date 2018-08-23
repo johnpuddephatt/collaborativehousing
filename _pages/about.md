@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: About Collaborative Housing
 subtitle: We think that houses made by people make better homes.
 scripts: ''
 menu: Header
