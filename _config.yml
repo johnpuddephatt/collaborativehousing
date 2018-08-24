@@ -62,7 +62,7 @@ unpublished: false
 
 # Plugins
 whitelist: []
-plugins:
+gems:
   - jekyll-seo-tag
   - jekyll-menus
 
