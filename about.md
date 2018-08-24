@@ -31,9 +31,3 @@ OCLT is committed to creating permanently-affordable homes in the county of Oxfo
 Community First is a charity which helps communities to help themselves, with expertise in community and Neighbourhood Planning, affordable housing and placemaking and the creation of sustainable thriving communities.
 
 Both partners are committed to supporting the development of collaborative and community-led housing and to the incubation of a financially viable and effective support function for the sector in Oxfordshire and potentially beyond.
-
-## About community-led housing
-
-* [What is collaborative or community-led housing?](/about/what-is-clh)
-* [Definition of community-led housing](/about/clh-definition)
-* [Types of community-led housing](/about/clh-types)

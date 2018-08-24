@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Definition of community-led housing
-permalink: /about/clh-definition/index.html
+# permalink: /about/clh-definition/index.html
 ---
 The community-led housing sector definition for schemes that are truly “community-led” is:
 

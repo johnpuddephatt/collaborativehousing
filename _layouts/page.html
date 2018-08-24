@@ -2,6 +2,11 @@
 layout: default
 ---
 
+{% assign currentPath = page.url | replace: '.html', '' %}
+{% assign childPages = site.pages %}
+{% assign childPages = site.pages | where_exp:"childPage", "childPage.url contains currentPath" %}
+{% assign childPages = childPages | where_exp:"childPage", "childPage.url != page.url" %}
+
 <div class="section">
   {% include /svg/page-header.svg %}
 </div>
@@ -13,6 +18,15 @@ layout: default
   </header>
   <div class="page-content section">
       {{ content | markdownify }}
+
+      {% if childPages.size > 0 %}
+      <h2>Further information</h2>
+      <ul>
+        {% for page in childPages %}
+          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
   </div>
 </div>
 
