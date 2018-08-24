@@ -5,7 +5,8 @@ subtitle: We’re here to help people collaborate and learn from each other
 scripts: 
 menu:
   header:
-    weight: 3
+    weight: 6
+    title: Contact us
 
 ---
 Please use the contact form below or contact Community First Oxfordshire on 01865 883488 or at [info@communityfirstoxon.org](mailto:info@communityfirstoxon.org) for general or initial enquiries.
