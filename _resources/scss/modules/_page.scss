@@ -49,6 +49,11 @@
   ul {
     margin-top: $base-spacing;
     margin-bottom: $base-spacing;
+    ul {
+      margin-top: $small-spacing;
+      margin-bottom: $small-spacing;
+      font-size: modular-scale(-1);
+    }
   }
   li {
     margin-bottom: $small-spacing/2;

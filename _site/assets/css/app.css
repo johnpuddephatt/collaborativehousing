@@ -1111,6 +1111,12 @@ label[for="nav-trigger"] {
   margin-bottom: 1.6rem;
 }
 
+.page-content ul ul {
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+  font-size: 0.8em;
+}
+
 .page-content li {
   margin-bottom: 0.4rem;
   margin-left: 2.4rem;
