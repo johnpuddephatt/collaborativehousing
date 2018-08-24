@@ -23,6 +23,7 @@ fields:
   label: Layout
   hidden: true
 pages:
+- _pages/how-to/resources-for-different-types-of-community-led-housing.md
 - _pages/about/clh-types.md
 - _pages/about.md
 - _pages/how-to.md
