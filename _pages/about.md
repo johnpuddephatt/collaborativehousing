@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: About
 subtitle: We think houses made by people make better homes.
 scripts: ''
 
