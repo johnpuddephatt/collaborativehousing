@@ -3,11 +3,9 @@ title: 'Local resources '
 date: 2018-08-24 09:14:26 +0000
 subtitle: Links to expertise in different parts of the Thames Valley
 scripts: ''
-layout: ''
 published: false
-
 ---
-Organisations and individuals will be added to this list as they join the Collaborative Housing network of advisors. Many of these organisations can offer support to groups across the whole region. 
+Organisations and individuals will be added to this list as they join the Collaborative Housing network of advisors. Many of these organisations can offer support to groups across the whole region.
 
 **Oxfordshire**
 
