@@ -5,7 +5,6 @@ subtitle: We’re here to help people collaborate and learn from each other
 menu:
   header:
     weight: 6
-
 ---
 The partners who make up Collaborative Housing provide information, advice and technical support to those who wish to deliver community-led housing projects. From one-off commissions to full-spectrum support, experts from across our network offer packages tailored to your needs. Together we can take you from initial concept to homes on the ground.
 
