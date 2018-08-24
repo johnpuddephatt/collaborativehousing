@@ -11,4 +11,4 @@ group :jekyll_plugins do
    gem "jekyll-feed"
    gem "jekyll-seo-tag"
 end
-gem "jekyll", "3.7.3"
+gem "jekyll", "3.8.3"
