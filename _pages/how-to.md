@@ -7,8 +7,8 @@ layout: ''
 published: false
 
 ---
-**Resources for different types of community-led housing**
+A lot of information is freely accessible and we aim to make this easier to find by providing links. 
 
-**Resources for different stages of your scheme**
+Further guidance and toolkits will be posted here as they are developed. If you have any links that should be added to these pages please contact [_info@communityfirstoxon.org_]() tel 01865 883488.
 
-**Local resources for community-led housing in different parts of the Thames Valley**
+For more detailed guidance, you may need to become a member of the relevant organization or pay for advice and support.
