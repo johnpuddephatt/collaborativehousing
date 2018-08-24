@@ -4,6 +4,9 @@ date: 2018-08-23 09:30:33 +0000
 subtitle: Links and resources for making your housing project a reality
 scripts: ''
 layout: ''
+menu:
+  header:
+    weight: 1
 
 ---
 A lot of information is freely accessible and we aim to make this easier to find by providing links. 
