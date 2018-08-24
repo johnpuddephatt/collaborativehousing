@@ -4,7 +4,6 @@ title: Types of Community-led Housing
 permalink: "/about/clh-types/index.html"
 subtitle: ''
 scripts: ''
-published: false
 
 ---
 There are many types of community-led housing. These brief descriptions of some of the main types provide a starting point and the website links provide further information. Go to our 'How To' page for links to further information about each one.
