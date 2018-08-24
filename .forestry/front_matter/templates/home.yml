@@ -84,5 +84,3 @@ fields:
   name: scripts
   hidden: true
   description: Remember opening and closing tags
-pages:
-- _pages/index.md
