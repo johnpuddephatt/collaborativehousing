@@ -4,6 +4,8 @@ date: 2018-08-23 09:30:33 +0000
 subtitle: Links to national bodies who provide guidance
 scripts: ''
 published: false
+layout: page
+
 ---
 **Community Land Trusts**
 

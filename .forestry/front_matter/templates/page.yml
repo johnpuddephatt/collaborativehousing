@@ -22,6 +22,7 @@ fields:
   name: layout
   label: Layout
   hidden: true
+  default: page
 pages:
 - _pages/how-to/resources-for-local-authorities.md
 - _pages/how-to/local-resources-and-connections-for-different-parts-of-the-thames-valley.md
