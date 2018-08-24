@@ -109,3 +109,15 @@ kramdown:
   hard_wrap:      false
   footnote_nr:    1
   show_warnings:  false
+
+
+
+# Defaults
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "page" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
