@@ -4,7 +4,6 @@ date: 2018-08-24 09:14:26 +0000
 subtitle: Links to expertise in different parts of the Thames Valley
 scripts: ''
 layout: page
-published: false
 
 ---
 Organisations and individuals will be added to this list as they join the Collaborative Housing network of advisors. Our objective is to signpost community-led housing groups directly to the expertise that they need. 
