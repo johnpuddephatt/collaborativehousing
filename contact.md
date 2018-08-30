@@ -5,7 +5,7 @@ subtitle: We’re here to help people collaborate and learn from each other
 scripts: 
 menu:
   header:
-    weight: 4
+    weight: 5
     title: Contact us
 
 ---

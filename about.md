@@ -5,7 +5,7 @@ subtitle: We think houses made by people make better homes.
 scripts: ''
 menu:
   header:
-    weight: 3
+    weight: 4
 
 ---
 The aim of Collaborative Housing is to support the development of a pipeline of community-led housing projects across the county.  The hub is a collaborative effort to ensure a coordinated and efficient approach, striking the right balance between a central point of expertise and practical local delivery. A structured and well-planned approach will be essential if momentum is to be maintained in delivering these projects.
