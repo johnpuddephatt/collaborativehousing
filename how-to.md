@@ -6,7 +6,7 @@ scripts: ''
 layout: page
 menu:
   header:
-    weight: 1
+    weight: 2
 
 ---
 A lot of information is freely accessible and we aim to make this easier to find by providing links.
