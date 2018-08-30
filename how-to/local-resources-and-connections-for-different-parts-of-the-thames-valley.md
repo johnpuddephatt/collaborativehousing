@@ -3,36 +3,38 @@ title: 'Local resources '
 date: 2018-08-24 09:14:26 +0000
 subtitle: Links to expertise in different parts of the Thames Valley
 scripts: ''
-published: false
 layout: page
+published: false
 
 ---
-Organisations and individuals will be added to this list as they join the Collaborative Housing network of advisors. Many of these organisations can offer support to groups across the whole region.
+Organisations and individuals will be added to this list as they join the Collaborative Housing network of advisors. Our objective is to signpost community-led housing groups directly to the expertise that they need. 
+
+To join the network please contact [info@communityfirstoxon.org](mailto:info@communityfirstoxon.org) tel 01865 883488 and specify the services that you offer to community-led housing groups.
 
 **Oxfordshire**
 
-Oxfordshire Community Land Trust
+[Oxfordshire Community Land Trust](https://oclt.org.uk.archived.website/)
 
-Community First Oxfordshire
+[Community First Oxfordshire](http://www.communityfirstoxon.org/)
 
-Transition By Design
+[Transition By Design](https://transitionbydesign.org/)
 
-Oxford Cohousing
+[Oxford Cohousing](http://www.oxfordcohousing.org.uk/)
 
 **Berkshire**
 
-Berkshire Cohousing
+[Cohousing Berkshire](http://www.cohousingberks.org.uk/)
 
-Windsor and Maidenhead Community Land Trust
+Windsor Ascot and Maidenhead (WAM) Community Land Trust
+
+[Community Council for Berkshire](https://ccb2017.wordpress.com/)
 
 **Buckinghamshire**
 
-Community Impacts Buckinghamshire
+[Community Impact Bucks](https://communityimpactbucks.org.uk/)
 
 **Milton Keynes**
 
-Milton Keynes Community Housing
+Community Housing Milton Keynes
 
- 
-
-Our objective is to signpost community-led housing groups directly to the expertise that they need. To join the network please contact [info@communityfirstoxon.org](mailto:info@communityfirstoxon.org) tel 01865 883488 and specify the services that you offer to community-led housing groups.
+[Still Green](https://stillgreenweb.org/about/) cohousing
