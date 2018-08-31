@@ -7,56 +7,34 @@ menu:
     weight: 1
 
 ---
-The partners who make up Collaborative Housing provide information, advice and technical support to those who wish to deliver community-led housing projects. From one-off commissions to full-spectrum support, experts from across our network offer packages tailored to your needs. Together we can take you from initial concept to homes on the ground.
+The partners who make up Collaborative Housing provide information, advice and technical support to those who wish to deliver community-led housing projects. The partnership is still developing. The aim is that local experts from across the Thames Valley will offer packages tailored to your needs. Together we can take you from initial concept to homes on the ground.
 
-### Support and advice
+### Forming a group
 
-* Advising on the different options for community-led housing
-* Providing access to a range of technical support professionals
-* Sharing good practice – what works/ how to address things that go wrong
-* Acting as an intermediary between professionals, local authorities and community group
+* Including community-led housing delivery routes, organisational and legal entity structures, group processes and decision-making methods, community engagement, group visioning, governance and accountability.
 
 ### Evidencing and consultation
 
-* Advice on finding land
-* Undertaking Housing needs surveys and other research
-* Designing of consultation strategies
-* Facilitating community engagement events
+* Including Housing Needs Surveys, research and data analysis and consultation strategy
 
-### Governance
+### Finding a site
 
-* Project visioning
-* Advising on delivery routes and legal structures
-* Establishing a membership and community accountability
-* Determining roles and responsibilities
-* Signposting to specialist legal professionals and services
-
-### Business Planning
-
-* Preparing viable business plans
-* Managing projects
-* Identifying and managing risks / due diligence
-* Negotiating agreements with the local authority – e.g. preparing allocation policies
-* Evaluating and establishing ongoing management arrangements
+* Including identifying sites and negotiating acquisition of land and property
 
 ### Funding
 
-* Sourcing funding for set up, operation and development
-* Obtaining initial pro bono professional support
-* Negotiating affordable rents and ground rents
-* Developing budgeting and financial planning
-* Managing service charges and sinking funds
-* Procuring and competitive bidding including the Community Housing Fund
+* Including sourcing housing development funding, obtaining initial pro bono professional support, support for budgeting and financial planning, guiding grant proposals
+
+### Project planning
+
+* Including signposting to specialist legal and professional services, preparing viable business plans and financial appraisal, signposting to design/architectural expertise, advice on project management, identifying and managing risks and negotiating with the Local Authority
 
 ### Development
 
-* Guiding funding applications, finance and development management
-* Selecting housing association partners and consultants
-* Preparing feasibility studies and assessing viability
-* Identifying sites, valuation, interest negotiation and acquisition
-* Advising on design and building options
-* Advising pre-planning / planning application development
-* Managing contracts
-* Brokering with developers
+* Including advice on development finance, managing development projects and construction, selecting partners and consultants, preparing feasibility studies, design and building options, pre-planning / planning application development, managing contracts and negotiating with developers 
+
+### Ongoing management
+
+* Including advice on managing finance, managing buildings, group processes, regulatory requirements, allocations and membership. 
 
 <div class="pullout-box centre"> <h2>Need help? Have questions?</h2> <p>Whether you are a group, Local Authority, landowner or potential development partner please do get in touch with our dedicated community-led housing team.</p> <a class="button" href="/contact/">Contact us</a> </div>
