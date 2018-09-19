@@ -31,10 +31,10 @@ The partners who make up Collaborative Housing provide information, advice and t
 
 ### Development
 
-* Including advice on development finance, managing development projects and construction, selecting partners and consultants, preparing feasibility studies, design and building options, pre-planning / planning application development, managing contracts and negotiating with developers 
+* Including advice on development finance, managing development projects and construction, selecting partners and consultants, preparing feasibility studies, design and building options, pre-planning / planning application development, managing contracts and negotiating with developers
 
 ### Ongoing management
 
-* Including advice on managing finance, managing buildings, group processes, regulatory requirements, allocations and membership. 
+* Including advice on managing finance, managing buildings, group processes, regulatory requirements, allocations and membership.
 
-<div class="pullout-box centre"> <h2>Need help? Have questions?</h2> <p>Whether you are a group, Local Authority, landowner or potential development partner please do get in touch with our dedicated community-led housing team.</p> <a class="button" href="/contact/">Contact us</a> </div>
+<div class="pullout-box centre"> <h2>Need help? Have any questions?</h2> <p>Whether you are a group, Local Authority, landowner or potential development partner please do get in touch with our dedicated community-led housing team.</p> <a class="button" href="/contact/">Contact us</a> </div>
