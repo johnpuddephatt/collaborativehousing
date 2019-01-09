@@ -26,3 +26,4 @@ fields:
 pages:
 - "./projects.md"
 - "./research.md"
+- "./how-to/research.md"
