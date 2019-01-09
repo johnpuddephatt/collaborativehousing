@@ -6,6 +6,8 @@ scripts: ''
 layout: page
 
 ---
+[Community Led Homes]( https://www.communityledhomes.org.uk ) is the ‘one stop’ shop website for community-led housing
+
 **Community Land Trusts**
 
 * [National CLT network ](http://www.communitylandtrusts.org.uk/funding-and-resources/resources)
