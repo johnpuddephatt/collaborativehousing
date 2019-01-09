@@ -25,3 +25,4 @@ fields:
   default: page
 pages:
 - "./projects.md"
+- "./research.md"
