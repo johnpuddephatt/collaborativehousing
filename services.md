@@ -37,4 +37,4 @@ The partners who make up Collaborative Housing provide information, advice and t
 
 * Including advice on managing finance, managing buildings, group processes, regulatory requirements, allocations and membership.
 
-<div class="pullout-box centre"> <h2>Need help? Have any questions?</h2> <p>Whether you are a group, Local Authority, landowner or potential development partner please do get in touch with our dedicated community-led housing team.</p> <a class="button" href="/contact/">Contact us</a> </div>
+<div class="pullout-box centre"> <h2>Need help? Have any questions?</h2> <p>Whether you are a group, Local Authority, landowner or potential development partner please do get in touch with our dedicated community-led housing team.</p> <a class="button" href="/contact.html">Contact us</a> </div>
