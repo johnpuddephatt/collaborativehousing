@@ -23,5 +23,6 @@ fields:
   hidden: true
   default: page
 pages:
+- "./join-us.md"
 - "./how-to/research.md"
 - "./projects.md"
