@@ -1,6 +1,6 @@
 ---
 title: How to
-date: 2018-08-23 09:30:33 +0000
+date: '2018-08-23T09:30:33.000+00:00'
 subtitle: Links and resources for making your housing project a reality
 scripts: ''
 layout: page
