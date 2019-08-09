@@ -9,6 +9,6 @@ menu:
     title: Contact us
 
 ---
-Please use the contact form below or contact Community First Oxfordshire on 01865 883488 or at [info@communityfirstoxon.org](mailto:info@communityfirstoxon.org) for general or initial enquiries.
+Please use the contact form below or contact Community First Oxfordshire on 01865 883488 for general or initial enquiries.
 
 {% include contact-form.html title="Send us a message" target="https://form.letsdance.agency/4yDBbD3q" subject="Message from collaborativehousing.org.uk" %}
