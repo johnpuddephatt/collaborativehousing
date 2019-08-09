@@ -11,4 +11,4 @@ menu:
 ---
 A lot of information is freely accessible and we aim to make this easier to find by providing links.
 
-Further guidance will be posted here as they are developed. If you have any links that should be added to these pages please contact [_info@communityfirstoxon.org_]() tel 01865 883488.
+Further guidance will be posted here as they are developed. If you have any links that should be added to these pages please [contact us](https://collaborativehousing.org.uk/contact.html) _or_ telephone 01865 883488.
