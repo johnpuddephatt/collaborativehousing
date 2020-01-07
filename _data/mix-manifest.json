@@ -1,12 +1,13 @@
 {
-    "/js/app.js": "/js/app.js?id=b6f5ed86ea9160d7e8b0",
-    "/images/cfo.png": "/images/cfo.png?id=950f79da9d6b2df56bc9",
-    "/images/ocf.png": "/images/ocf.png?id=2827789c81e417b12338",
-    "/images/oclt.png": "/images/oclt.png?id=28559e27419b61a6e09f",
-    "/fonts/neue_hans_kendrick_bold.woff": "/fonts/neue_hans_kendrick_bold.woff?id=c4e26235f0089dfeede4",
-    "/fonts/neue_hans_kendrick_bold.woff2": "/fonts/neue_hans_kendrick_bold.woff2?id=5992ba798a9a7b0645ba",
-    "/fonts/neue_hans_kendrick_heavy.woff": "/fonts/neue_hans_kendrick_heavy.woff?id=5f083df37bb547df6de5",
-    "/fonts/neue_hans_kendrick_heavy.woff2": "/fonts/neue_hans_kendrick_heavy.woff2?id=52bf093896a74ee3c65c",
-    "/fonts/neue_hans_kendrick_regular.woff": "/fonts/neue_hans_kendrick_regular.woff?id=b5a715750013704e0bd2",
-    "/fonts/neue_hans_kendrick_regular.woff2": "/fonts/neue_hans_kendrick_regular.woff2?id=52b899520a465d86fe4b"
+    "/js/app.js": "/js/app.js?id=c254e2b1692083a5d441",
+    "/css/app.css": "/css/app.css?id=e08386980430f4569c00",
+    "/images/cfo.png": "/images/cfo.png?id=5fcc86587f2b08cfdd28",
+    "/images/ocf.png": "/images/ocf.png?id=fa07ddba34361e1e1f86",
+    "/images/oclt.png": "/images/oclt.png?id=efec750e3c621cb3be1c",
+    "/fonts/neue_hans_kendrick_bold.woff": "/fonts/neue_hans_kendrick_bold.woff?id=c4a6651453072a52d8ed",
+    "/fonts/neue_hans_kendrick_bold.woff2": "/fonts/neue_hans_kendrick_bold.woff2?id=dfc01f1ac04cc2ecd40e",
+    "/fonts/neue_hans_kendrick_heavy.woff": "/fonts/neue_hans_kendrick_heavy.woff?id=c30ee966b7668d673c2e",
+    "/fonts/neue_hans_kendrick_heavy.woff2": "/fonts/neue_hans_kendrick_heavy.woff2?id=a3c1746d8f53de2818e5",
+    "/fonts/neue_hans_kendrick_regular.woff": "/fonts/neue_hans_kendrick_regular.woff?id=1018b5903d88ea0e6915",
+    "/fonts/neue_hans_kendrick_regular.woff2": "/fonts/neue_hans_kendrick_regular.woff2?id=247b34e2484a4471d10b"
 }
