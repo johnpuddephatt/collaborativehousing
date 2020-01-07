@@ -22,7 +22,3 @@ fields:
   label: Layout
   hidden: true
   default: page
-pages:
-- "./how-to/research.md"
-- "./join-us.md"
-- "./projects.md"
