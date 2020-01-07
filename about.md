@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About us
-subtitle: We think that houses made by people make better homes.
+subtitle: We think houses made by people make better homes.
 scripts: ''
 
 ---
