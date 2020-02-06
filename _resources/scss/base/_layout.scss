@@ -55,7 +55,7 @@ body {
 }
 
 .container {
-  // max-width: $large-screen;
+  max-width: $xl-screen;
   margin: 0 auto;
   @extend %padded-container;
   // padding-left: $base-spacing;
@@ -64,6 +64,10 @@ body {
 
 .container__narrow {
   max-width: $large-screen
+}
+
+.container__wide {
+  max-width: none
 }
 
 

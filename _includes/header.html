@@ -1,9 +1,12 @@
 <header class="site-header" role="banner">
-  <div class="container">
-    {% assign default_paths = site.pages | map: "path" %}
-    {% assign page_paths = site.data.menus.header %}
+  <div class="container container__wide">
+    {% assign default_paths = site.pages %}
+    {% assign page_paths = site.data.menus.header_menu %}
 
     <a class="site-title" href="{{ "/" | relative_url }}"><span>Collaborative</span>Housing</a>
+
+
+    {% if page_paths %}
 
     <nav class="site-nav">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -18,11 +21,18 @@
       </label>
 
       <div class="trigger">
-        {% for item in site.menus.header %}
-          <a class="page-link" href="{{ item.url | replace: 'index.html', '' }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+        {% for item in page_paths %}
+          {% for mypage in default_paths %}
+          {% assign mypagename = mypage.url | replace: 'index.html', '' %}
+            {% if item.page ==  mypagename %}
+              <a class="page-link" href="{{ mypage.url | relative_url | replace: 'index.html', '' }}">{{ mypage.title | escape }}</a>
+            {% endif %}
+          {% endfor %}
         {% endfor %}
       </div>
     </nav>
+
+    {% endif %}
 
   </div>
 </header>

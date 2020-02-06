@@ -2,8 +2,7 @@
 layout: default
 ---
 
-{% assign currentPath = page.url | replace: '.html', '' %}
-{% assign childPages = site.pages %}
+{% assign currentPath = page.url | replace: 'index.html', '' %}
 {% assign childPages = site.pages | where_exp:"childPage", "childPage.url contains currentPath" %}
 {% assign childPages = childPages | where_exp:"childPage", "childPage.url != page.url" %}
 
@@ -23,7 +22,7 @@ layout: default
       <h2>Further information</h2>
       <ul>
         {% for page in childPages %}
-          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+          <li><a href="{{ page.url | replace: 'index.html', '' }}">{{ page.title }}</a></li>
         {% endfor %}
       </ul>
       {% endif %}

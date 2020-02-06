@@ -1,1 +1,10 @@
---- {}
+---
+footer_menu:
+- page: /about/
+- page: /contact/
+header_menu:
+- page: /about/
+- page: /join-us/
+- page: /how-to/
+- page: /projects/
+- page: /services/
