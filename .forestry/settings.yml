@@ -5,7 +5,7 @@ admin_path: _site/admin
 webhook_url: 
 sections:
 - type: document
-  path: _data/menu.yml
+  path: _data/menus.yml
   label: Menus
   match: "**/*"
 - type: directory
