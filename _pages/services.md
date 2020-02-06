@@ -29,7 +29,7 @@ The partners who make up Collaborative Housing provide information, advice and t
 
 ### Development
 
-* Including advice on development finance, managing development projects and construction, selecting partners and consultants, preparing feasibility studies, design and building options, pre-planning / planning application development, managing contracts and negotiating with developers
+* Including advice on development finance, managing development projects and construction, selecting partners and consultants, preparing feasibility studies, design and building options, pre-planning / planning application development, managing contracts and negotiating with developers.
 
 ### Ongoing management
 
