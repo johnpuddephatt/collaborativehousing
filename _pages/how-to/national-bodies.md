@@ -8,11 +8,11 @@ layout: page
 ---
 [Community Led Homes]( https://www.communityledhomes.org.uk ) is the ‘one stop’ shop website for community-led housing
 
-**Community Land Trusts**
+## Community Land Trusts
 
 * [National CLT network ](http://www.communitylandtrusts.org.uk/funding-and-resources/resources)
 
-**Cohousing**
+## Cohousing
 
 * [UK Cohousing Network](https://cohousing.org.uk/membership-categories/)
 * [Cohousing FAQs](https://bit.ly/2M4JUFo)
@@ -21,7 +21,7 @@ layout: page
 * Experience from Cambridge: [Marmalade Lane cohousing](http://www.houseplanninghelp.com/hph129-setting-up-a-cohousing-scheme-with-chris-wilson-from-k1/)
 * Experience from the US: [Cohousing Solutions](http://cohousing-solutions.com/resources/next-steps/)
 
-**Housing Co-operatives**
+## Housing Co-operatives
 
 * [Confederation of Co-operative Housing](http://www.cch.coop/centre-for-excellence/)
 * [Co-operatives UK](https://www.uk.coop/developing-co-ops/start-co-operative)
@@ -30,7 +30,7 @@ layout: page
   * [How to Guides](http://www.radicalroutes.org.uk/publicdownloads/how2housingco-opstepbystep.pdf)
 * [Catalyst Collective](http://www.catalystcollective.org/cms/housing-co-ops)
 
-**Self-build:**
+## Self-build
 
 * [UK Government guidance](https://www.gov.uk/guidance/self-build-and-custom-housebuilding)
 * [House of Commons research](http://researchbriefings.parliament.uk/ResearchBriefing/Summary/SN06784)
@@ -39,7 +39,7 @@ layout: page
 * [Housing Planning Help Hub](https://hphhub.com/)
 * [National CLT network self-build guidance](http://www.communitylandtrusts.org.uk/funding-and-resources/resources/start-a-clt-building-the-homes-including-self-build)
 
-**Tenancy self-management**
+## Tenancy self-management
 
 * [Tenancy self-management organisations](https://en.wikipedia.org/wiki/Tenant_management_organisation)
 * [Self-help housing](http://self-help-housing.org/how-is-it-done/setting-up/)
