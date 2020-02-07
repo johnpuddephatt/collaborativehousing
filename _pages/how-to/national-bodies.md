@@ -6,7 +6,7 @@ scripts: ''
 layout: page
 
 ---
-[Community Led Homes]( https://www.communityledhomes.org.uk ) is the ‘one stop’ shop website for community-led housing
+[Community Led Homes]( https://www.communityledhomes.org.uk ) is the ‘one stop’ shop website for community-led housing. Resources for specific types of community-led housing are listed below.
 
 ## Community Land Trusts
 
