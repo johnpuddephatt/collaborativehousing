@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Join us
-subtitle: Do you want to see a housing system which truly works in collaboration with
+subtitle: Do you want to see a housing system truly working in collaboration with
   communities?
 scripts: ''
 
