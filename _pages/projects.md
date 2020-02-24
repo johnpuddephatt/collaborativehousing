@@ -1,12 +1,18 @@
 ---
 title: Projects
 layout: page
-date: 2018-08-30 14:48:48 +0000
+date: '2018-08-30T14:48:48.000+00:00'
 subtitle: Community-led housing schemes supported by Collaborative Housing partners
 scripts: ''
 published: false
 
 ---
-Oxfordshire Community Land Trust is developing affordable housing at Deans Court near Botley, Oxford
+Oxfordshire Community Land Trust is developing affordable housing at Deans Court near Botley, Oxford.  The project for 8 apartments for affordable rent is due to complete in 2021.
 
-Community First Oxfordshire is developing short-life housing co-ops for affordable housing in empty homes in Oxford
+Hook Norton Community Land Trust has submitted a detailed planning permission for 12 apartments and a community building on a piece of land due to be transferred from Cherwell District Council.
+
+Oxford co-housing has been successful in obtaining grant funding from the Homes England Community Housing Fund to enable site appraisals on 2 sites in Oxford. 
+
+Thame Community Land Trust has carried out appraisal work on a site in Thame with a view to submitting  a detailed planning application in Spring 2020.
+
+If you have news about your project please get in touch! 
