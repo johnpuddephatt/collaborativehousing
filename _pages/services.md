@@ -5,7 +5,7 @@ subtitle: We’re here to help people collaborate and learn from each other
 scripts: ''
 
 ---
-ho make up Collaborative Housing provide information, advice and technical support to those who wish to deliver community-led housing projects. The partnership is still developing. The aim is that local experts from across the Thames Valley will offer packages tailored to your needs. Together we can take you from initial concept to homes on the ground.
+Collaborative Housing provide information, advice and technical support to those who wish to deliver community-led housing projects. The partnership is still developing. The aim is that local experts from across the Thames Valley will offer packages tailored to your needs. Together we can take you from initial concept to homes on the ground.
 
 ### Forming a group
 
