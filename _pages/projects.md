@@ -8,7 +8,7 @@ scripts: ''
 ---
 These are some of the projects currently active across the region.
 
-**Oxfordshire Community Land Trust** is developing affordable housing at Deans Court near Botley, Oxford.  The project for 8 apartments for affordable rent is due to complete in 2021.
+**OCLT** is developing affordable housing at Deans Court near Botley, Oxford.  The project for 8 apartments for affordable rent is due to complete in 2021.
 
 **Hook Norton Community Land Trust** has submitted a detailed planning permission for 12 apartments and a community building on a piece of land due to be transferred from Cherwell District Council.
 
