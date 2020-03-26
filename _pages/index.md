@@ -5,20 +5,23 @@ permalink: "/"
 template: home
 strapline: Together we can build homes that work for people and communities
 intro:
-  subheading: "Collaborative Housing provides advice and support so people across
-    the Thames Valley can plan, fund and build their own homes or work in partnership
-    to do so.\n\nCOVID-19 UPDATE \n\nAlthough our office is currently closed we are
-    still available to support groups so please do continue to get in touch with any
-    questions. \n\nWhilst it is inevitable that the current situation will slow some
-    aspects of projects, this period provides great opportunities for visioning and
-    planning. We are still very happy to support through online meetings and are developing
-    more online training support. \n"
+  subheading: Collaborative Housing provides advice and support so people across the
+    Thames Valley can plan, fund and build their own homes or work in partnership
+    to do so.
   heading: We think houses made by the people who live in them create better homes
     and stronger communities
   button:
     text: Find out more about our services
     link: "/services"
   items:
+  - title: COVID-19 UPDATE
+    description: "Although our office is currently closed we are still available to
+      support groups so please do continue to get in touch with any questions. \n\nWhilst
+      it is inevitable that the current situation will slow some aspects of projects,
+      this period provides great opportunities for visioning and planning. We are
+      still very happy to support through online meetings and are developing more
+      online training support. "
+    image: ''
   - title: Connect
     description: We bring local groups into contact with housing experts, connecting
       them to the professional advice, funding and support they need.
