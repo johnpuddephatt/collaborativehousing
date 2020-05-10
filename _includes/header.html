@@ -29,6 +29,23 @@
             {% endif %}
           {% endfor %}
         {% endfor %}
+
+        {% assign posttotal = site.posts | size %}
+        {% if posttotal > 0 %}
+          <a class="page-link" href="/posts/">News</a>
+        {% endif %}
+
+        {% for account in site.data.config.social %}
+          {% if account.twitter %}
+            <a class="page-link page-link__social" title="Twitter" href="//twitter.com/{{ account.twitter}}" target="_blank">{% include icons/twitter.svg %}</a>
+          {% endif %}
+          {% if account.facebook %}
+            <a class="page-link page-link__social" title="Facebook" href="//facebook.com/{{ account.facebook}}" target="_blank">{% include icons/facebook.svg %}</a>
+          {% endif %}
+          {% if account.instagram %}
+            <a class="page-link page-link__social" title="Instagram" href="//instagram.com/{{ account.instagram}}" target="_blank">{% include icons/instagram.svg %}</a>
+          {% endif %}
+        {% endfor %}
       </div>
     </nav>
 

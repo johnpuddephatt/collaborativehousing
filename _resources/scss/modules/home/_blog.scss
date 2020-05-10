@@ -1,21 +1,22 @@
 .section--home-blog {
-  border-bottom: $base-border;
   padding-top: 2 * $base-spacing;
   padding-bottom: 2 * $base-spacing;
   .section-heading {
     text-align: center;
-    font-size: modular-scale(3);
-    @extend %sr-only;
+    font-size: modular-scale(4);
+    margin-bottom: 2 * $base-spacing;
   }
 }
 
 .home-blog--wrapper {
   display: flex;
   flex-direction: row;
+  justify-content: center;
 }
 
 .home-blog--item {
   display: block;
+  flex: 0 1 33.33%;
   margin-bottom: 1.5 * $base-spacing;
   color: $base-font-color;
   + .home-blog--item {

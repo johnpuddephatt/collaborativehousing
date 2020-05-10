@@ -6,4 +6,4 @@ scripts:
 ---
 Please use the contact form below or contact Community First Oxfordshire on 01865 883488 for general or initial enquiries.
 
-{% include contact-form.html title="Send us a message" target="https://form.letsdance.agency/4yDBbD3q" subject="Message from collaborativehousing.org.uk" %}
+{% include contact-form.html title="Make an enquiry" target="https://form.letsdance.agency/4yDBbD3q" subject="Enquiry from collaborativehousing.org.uk" %}

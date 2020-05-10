@@ -21,6 +21,14 @@ layout: default
 
 <section class="section">{% include svg/woman-land.svg %}</section>
 
+{% assign posttotal = site.posts | size %}
+
+{% if posttotal > 0 %}
+  <section class="section section--home-blog">
+    {% include components/home-blog.html title="News" %}
+  </section>
+{% endif %}
+
 <section class="section section--home-signup" id="contact">
   <h2 class="section-heading">Stay in touch</h2>
   <p class="section-subheading">Subscribe to our mailing list to receive updates from us</p>
@@ -28,11 +36,3 @@ layout: default
 </section>
 
 <section class="section">{% include svg/sign-people.svg %}</section>
-
-
-{% comment %}
-  <section class="section section--home-blog">
-    {% include components/home-blog.html title="News" %}
-  </section>
-{% endcomment %}
-

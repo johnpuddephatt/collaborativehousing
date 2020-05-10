@@ -1,0 +1,31 @@
+---
+label: Post
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: post
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+pages:
+- _posts/2019-01-25-january-update.md
+- _posts/2019-02-21-planning-application-submitted-for-dean-court.md
+- _posts/2019-11-14-oclt-to-work-on-next-project-in-littlemore.md
+- _posts/2020-01-29-celebration-of-community-led-housing-january-2020.md

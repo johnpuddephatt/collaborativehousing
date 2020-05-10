@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div class="section">
+  {% include /svg/page-header.svg %}
+</div>
+
+<div class="container container__narrow page-wrapper">
+  <header class="page-header section">
+    <h1 class="page-title">{{ page.title | escape }}</h1>
+    <div class="page-subtitle">{{ page.subtitle | escape }}</div>
+  </header>
+
+  <div class="post-content section">
+    {% for post in site.posts limit:3 %}
+      <a href="{% if post.external_link %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}" class="blog--item">
+        <div class="blog--item--image">
+          <img src="{{ post.image }}" />
+        </div>
+        <div>
+          <h3 class="blog--item--title">{{ post.title }}</h3>
+          <p class="blog--item--excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 120 }} </p>
+          <div class="blog--item--date">{{ post.date | date: site.data.config.date_format }}</div>
+          <span class="blog-item--read-more">Read more &rarr;</span>
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="section">
+  {% include /svg/page-footer.svg %}
+</div>
