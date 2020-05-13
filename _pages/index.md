@@ -21,7 +21,7 @@ intro:
       this period provides great opportunities for visioning and planning. We are
       still very happy to support through online meetings and are developing more
       online training support. "
-    image: ''
+    image: sustainability-01-01.png
   - title: Connect
     description: We bring local groups into contact with housing experts, connecting
       them to the professional advice, funding and support they need.
