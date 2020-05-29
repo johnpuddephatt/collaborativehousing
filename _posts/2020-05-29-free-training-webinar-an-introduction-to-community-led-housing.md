@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FREE TRAINING WEBINAR- An introduction to community-led housing
+title: FREE TRAINING WEBINAR- an introduction to community-led housing
 image: "/uploads/sticker.png"
 tags: []
 
