@@ -8,6 +8,8 @@ published: false
 ---
 **Fiona Brown (Communities Lead)** 
 
+![](/uploads/img-20191111-wa0000.jpg)
+
 Fiona coordinates the work of the hub providing front line support to groups across the Thames Valley. She has over 30 years’ experience in the management and delivery of affordable housing through Housing Associations and Local Authorities. She is now an accredited CLH Advisor through the Institute of Housing. 
 
 **Tim Parry (Steering Group)** 
