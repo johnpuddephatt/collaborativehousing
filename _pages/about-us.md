@@ -3,7 +3,6 @@ layout: page
 title: About us
 subtitle: We think houses made by people make better homes.
 scripts: ''
-published: false
 
 ---
 The aim of Collaborative Housing is to support the development of a pipeline of community-led housing projects across Oxfordshire, Berkshire and Buckinghamshire. The hub is a collaborative effort to ensure a coordinated and efficient approach, striking the right balance between a central point of expertise and practical local delivery.
