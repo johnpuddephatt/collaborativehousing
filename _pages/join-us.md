@@ -4,6 +4,7 @@ title: Join us
 subtitle: Do you want to see a housing system truly working in collaboration with
   communities?
 scripts: ''
+published: false
 
 ---
 Collaborative Housing is a comprehensive support Hub for community-led housing groups (e.g. community land trusts, co-operatives, co-housing, self-help housing, collective self-build, collective custom-build). We offer all the support necessary to take a group from initial concept to homes on the ground.
