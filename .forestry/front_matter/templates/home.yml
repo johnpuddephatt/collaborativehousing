@@ -12,6 +12,20 @@ fields:
   name: strapline
   label: Strapline
 - type: field_group
+  name: announcement
+  label: Announcement
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: textarea
+    label: Description
+    name: description
+  - type: text
+    name: link
+    label: Link
+    required: false
+- type: field_group
   name: intro
   label: Intro
   fields:
