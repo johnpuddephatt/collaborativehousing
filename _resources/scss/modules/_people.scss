@@ -1,6 +1,7 @@
 .person {
   display: flex;
   flex-direction: row;
+  margin-bottom: 2rem;
 
   &--image {
     width: 10rem;
@@ -11,6 +12,7 @@
     overflow: hidden;
     display: block;
     object-fit: cover;
+    border: 1px solid #fefefe;
   }
 
   &--text {

@@ -12,8 +12,7 @@ announcement:
     this period provides great opportunities for visioning and planning. We are
     still very happy to support through online meetings and are developing more
     online training support. "
-  link: ""
-
+  link: 
 intro:
   subheading: Collaborative Housing provides advice and support so people across the
     Thames Valley can plan, fund and build their own homes or work in partnership

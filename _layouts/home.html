@@ -9,6 +9,12 @@ layout: default
   <a href="#what" class="jump-link">See what we do</a>
 </section>
 
+{% if page.announcement.title or page.announcement.description %}
+<section class="section section--home-announcement" id="announcement">
+  {% include components/home-announcement.html %}
+</section>
+{% endif %}
+
 <section class="section section--home-intro" id="what">
   {% include components/home-intro.html %}
 </section>

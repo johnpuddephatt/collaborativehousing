@@ -1,8 +1,10 @@
 <div class="container container--home-intro">
-  <h3>{{ page.announcement.title }}</h3>
-  {{ page.announcement.title }}
+  <div class="pullout-box is-alert">
+    <h3>{{ page.announcement.title }}</h3>
+    {{ page.announcement.description }}
 
-  {% if page.announcement.link %}
-    <a href="{{ page.announcement.link}}" class="button">Find out more</a>
-  {% endif %}
+    {% if page.announcement.link %}
+      <a href="{{ page.announcement.link}}" class="button">Find out more</a>
+    {% endif %}
+  </div>
 </div>
