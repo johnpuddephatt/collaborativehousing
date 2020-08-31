@@ -1,1 +1,5 @@
 ---
+people:
+- name: Test
+  image: "/uploads/tp1.jpg"
+  body: something <strong>or</strong> other
