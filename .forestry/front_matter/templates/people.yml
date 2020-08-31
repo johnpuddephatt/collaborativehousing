@@ -2,22 +2,30 @@
 label: People
 hide_body: false
 fields:
-- type: text
-  label: Name
-  name: name
-  config:
-    required: true
-- name: image
-  label: Image
-  type: file
+- type: field_group_list
+  name: people
+  label: People
+  description: List of people involved with Collaborative Housing
   hidden: false
-  default: ''
-- name: body
-  label: Description
-  type: textarea
-  hidden: false
-  default: ''
+  fields:
+  - type: text
+    label: Name
+    name: name
+    config:
+      required: true
+  - name: image
+    label: Image
+    type: file
+    hidden: false
+    default: ''
+  - name: body
+    label: Description
+    type: textarea
+    hidden: false
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        'format:': html
   config:
-    wysiwyg: true
-    schema:
-      'format:': html
+    labelField: name

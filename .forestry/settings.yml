@@ -22,7 +22,6 @@ sections:
 - type: document
   path: _data/people.yml
   label: People
-  create: all
   templates:
   - people
 upload_dir: uploads
