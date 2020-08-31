@@ -26,6 +26,6 @@ fields:
     config:
       wysiwyg: true
       schema:
-        'format:': html
+        format: html
   config:
     labelField: name
