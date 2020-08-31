@@ -7,10 +7,9 @@ scripts: ''
 
 {% for person in site.data.people.people %}
 <div class="person">
-  <img src="{{ person--image }}">
+  <img class="person--image" src="{{ person.image }}">
   <div class="person--text">
     <h3 class="person--name">{{ person.name }}</h3>
-    <p class="person--title">{{ person.title }}</p>
     {{ person.body }}
   </div>
 {% endfor %}
