@@ -2,11 +2,16 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: _site/admin
-webhook_url: 
+webhook_url:
 sections:
 - type: document
   path: _data/menus.yml
   label: Menus
+- type: document
+  path: _data/people.yml
+  label: People
+  templates:
+  - people
 - type: directory
   path: _pages
   label: Pages

@@ -12,7 +12,7 @@ layout: default
   </header>
 
   <div class="post-content section">
-    {% for post in site.posts limit:3 %}
+    {% for post in site.posts %}
       <a href="{% if post.external_link %}{{ post.external_link }}{% else %}{{ post.url }}{% endif %}" class="blog--item">
         <div class="blog--item--image">
           <img src="{{ post.image }}" />

@@ -1,0 +1,14 @@
+---
+label: People
+hide_body: false
+fields:
+- type: text
+  label: Name
+  name: name
+  config:
+    required: true
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''

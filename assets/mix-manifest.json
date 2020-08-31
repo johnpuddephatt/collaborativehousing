@@ -1,13 +1,13 @@
 {
-    "/js/app.js": "/js/app.js?id=aa4589c7af60271e6791",
-    "/css/app.css": "/css/app.css?id=e62b03010fd1901866ac",
-    "/images/cfo.png": "/images/cfo.png?id=950f79da9d6b2df56bc9",
-    "/images/ocf.png": "/images/ocf.png?id=2827789c81e417b12338",
-    "/images/oclt.png": "/images/oclt.png?id=28559e27419b61a6e09f",
-    "/fonts/neue_hans_kendrick_bold.woff": "/fonts/neue_hans_kendrick_bold.woff?id=c4e26235f0089dfeede4",
-    "/fonts/neue_hans_kendrick_bold.woff2": "/fonts/neue_hans_kendrick_bold.woff2?id=5992ba798a9a7b0645ba",
-    "/fonts/neue_hans_kendrick_heavy.woff": "/fonts/neue_hans_kendrick_heavy.woff?id=5f083df37bb547df6de5",
-    "/fonts/neue_hans_kendrick_heavy.woff2": "/fonts/neue_hans_kendrick_heavy.woff2?id=52bf093896a74ee3c65c",
-    "/fonts/neue_hans_kendrick_regular.woff": "/fonts/neue_hans_kendrick_regular.woff?id=b5a715750013704e0bd2",
-    "/fonts/neue_hans_kendrick_regular.woff2": "/fonts/neue_hans_kendrick_regular.woff2?id=52b899520a465d86fe4b"
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/images/cfo.png": "/images/cfo.png",
+    "/images/ocf.png": "/images/ocf.png",
+    "/images/oclt.png": "/images/oclt.png",
+    "/fonts/neue_hans_kendrick_bold.woff": "/fonts/neue_hans_kendrick_bold.woff",
+    "/fonts/neue_hans_kendrick_bold.woff2": "/fonts/neue_hans_kendrick_bold.woff2",
+    "/fonts/neue_hans_kendrick_heavy.woff": "/fonts/neue_hans_kendrick_heavy.woff",
+    "/fonts/neue_hans_kendrick_heavy.woff2": "/fonts/neue_hans_kendrick_heavy.woff2",
+    "/fonts/neue_hans_kendrick_regular.woff": "/fonts/neue_hans_kendrick_regular.woff",
+    "/fonts/neue_hans_kendrick_regular.woff2": "/fonts/neue_hans_kendrick_regular.woff2"
 }
