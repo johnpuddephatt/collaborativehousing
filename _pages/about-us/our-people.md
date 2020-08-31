@@ -12,4 +12,5 @@ scripts: ''
     <h3 class="person--name">{{ person.name }}</h3>
     {{ person.body }}
   </div>
+</div>
 {% endfor %}
