@@ -5,9 +5,9 @@ image: "/uploads/download.jpg"
 tags: []
 
 ---
-**We are holding a FREE online (Zoom) session for communities across Oxfordshire on Thursday 22 October @ 2pm** 
+**We are holding a FREE online (Zoom) session for communities across Oxfordshire on Thursday 22 October @ 2pm**
 
-Are you a parish council, neighbourhood planning group or other community group interested in finding out more about community led housing? Then why drop in and find out about:
+Are you a parish council, neighbourhood planning group or other community group interested in finding out more about community led housing? Then why not drop in and find out about:
 
 * What is community led housing and what are the benefits?
 * Examples of community led housing in Oxfordshire
