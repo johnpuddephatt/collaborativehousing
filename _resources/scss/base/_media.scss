@@ -17,6 +17,7 @@ svg {
 iframe[src^="https://www.youtube.com/embed/"]{
   width: 100%;
   height: calc((100vw - #{2 * $base-spacing}) * 0.5625);
+  margin: $base-spacing 0;
 
   @media screen and (min-width: $medium-screen) {
     height: calc((100vw - #{4 * $base-spacing}) * 0.5625);
