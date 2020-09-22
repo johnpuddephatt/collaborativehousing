@@ -12,7 +12,7 @@ Many people across the Thames Valley do not have access to good quality, secure 
 
 From exploring the possibilities, to the practicalities of funding, design and planning, our team of advisors are experts in the Thames Valley Housing sector, and they'll help you to identify your local housing needs, design a project around them and translate that to different housing bodies.
 
-### If you're interested in learning more about what Collaborative Housing can do for you, [join our webinar on 22 October](https://www.eventbrite.co.uk/e/introduction-to-community-led-housing-tickets-121170250481): An Introduction to Community Led Housing, or 
+### If you're interested in learning more about what Collaborative Housing can do for you, [join our webinar on 22 October: An Introduction to Community Led Housing](https://www.eventbrite.co.uk/e/introduction-to-community-led-housing-tickets-121170250481), or 
 
 <div class="pullout-box centre"> <h2>Book in a 15-minute chat with one of our advisors</h2></div> 
 
