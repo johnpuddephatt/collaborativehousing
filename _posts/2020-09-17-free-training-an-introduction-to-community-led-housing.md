@@ -12,7 +12,7 @@ Are you a parish council, neighbourhood planning group or other community group 
 * What is community led housing and what are the benefits?
 * Examples of community led housing in Oxfordshire
 * Starting from scratch -setting up a community led housing group
-* How can Collaborative help local community groups?
+* How can Collaborative Housing help local community groups?
 * The experience from one local group in setting up a community led housing group and delivering their first project.
 
 There will be an opportunity to ask questions and to have a follow up call to talk in detail about your own situation. The session will be approximately one and half hours.
