@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our services-(working copy)
-subtitle: We’re here to help people collaborate and learn from each other
+subtitle: ''
 scripts: ''
 published: false
 
