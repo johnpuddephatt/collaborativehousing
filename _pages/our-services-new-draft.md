@@ -6,13 +6,15 @@ scripts: ''
 published: false
 
 ---
-Many people across the Thames Valley do not have access to good quality, secure and affordable housing. At Collaborative Housing, we’re here to help bring together residents, housing associations, councils and landlords to collaborate and learn from each other to build better homes, and stronger places.
+Many people across the Thames Valley do not have access to good quality, secure and affordable housing. At Collaborative Housing, we bring together residents, housing associations, councils and landlords to collaborate and learn from each other in order to build better homes, and stronger places.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cSXPj93ZJyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-From exploring the possibilities, to the practicalities of funding, design and planning, our team of advisors are experts in the Thames Valley Housing sector, and they'll help you to discover and design your aims, build a project around them and translate that to different housing bodies.
+From exploring the possibilities, to the practicalities of funding, design and planning, our team of advisors are experts in the Thames Valley Housing sector, and they'll help you to identify your local housing needs, design a project around them and translate that to different housing bodies.
 
-### If you're interested in learning more about what Collaborative Housing can do for you, book in a 15-minute chat with one of our advisors or [join our Webinar on 22 October: An Introduction to Community Led Housing](https://www.eventbrite.co.uk/e/introduction-to-community-led-housing-tickets-121170250481).
+### If you're interested in learning more about what Collaborative Housing can do for you, book in a 15-minute chat with one of our advisors.
+
+## You can also [join our Webinar on 22 October: An Introduction to Community Led Housing](https://www.eventbrite.co.uk/e/introduction-to-community-led-housing-tickets-121170250481).
 
 Whether you are a **Community Group, Landowner, or Housing Association**, we provide [hands-on advice and technical support](https://collaborativehousing.org.uk/uploads/collaborative-housing-flyer-a5-new-version-no-bleed.pdf) to take you from initial concept to homes on the ground. From co-housing and community land trusts, to cooperatives and self-help housing, we want to encourage and support communities to find solutions that work for them.
 
