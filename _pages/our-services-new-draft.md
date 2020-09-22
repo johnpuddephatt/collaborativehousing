@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Our services-(new draft)
-subtitle: ''
+subtitle: We’re here to help bring together residents, housing associations, councils
+  and landlords to collaborate and learn from each other to build better homes, and
+  stronger places.
 scripts: ''
 published: false
 
