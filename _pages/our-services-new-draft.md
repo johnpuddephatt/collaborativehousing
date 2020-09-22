@@ -14,7 +14,9 @@ We’re here to help bring together residents, housing associations, councils an
 
 From exploring the possibilities, to the practicalities of funding, design and planning, our team of advisors are experts in the Thames Valley Housing sector, and they'll help you to discover and design your aims, build a project around them and translate that to different housing bodies.
 
-<div class="pullout-box centre"> <h2>If you're interested in learning more about what Collaborative Housing can do for you, book in a 15-minute chat with one of our advisors or [join our Webinar on 22 October: An Introduction to Community Led Housing](https://www.eventbrite.co.uk/e/introduction-to-community-led-housing-tickets-121170250481).</h2></p></a> </div>
+If you're interested in learning more about what Collaborative Housing can do for you, [join our Webinar on 22 October: An Introduction to Community Led Housing](https://www.eventbrite.co.uk/e/introduction-to-community-led-housing-tickets-121170250481) or
+
+<div class="pullout-box centre"> <h2>Book in a 15-minute chat with one of our advisors</h2> <a class="button" href="/contact.html">Contact us</a> </div>
 
 ### Forming a group
 
