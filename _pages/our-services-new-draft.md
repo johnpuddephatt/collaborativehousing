@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Our services-(new draft)
-subtitle: Many people across the Thames Valley do not have access to good quality,
-  secure and affordable housing. At Collaborative Housing, we bring together residents,
-  housing associations, councils and landlords to collaborate and learn from each
-  other in order to build better homes, and stronger places.
+subtitle: ''
 scripts: ''
 published: false
 
 ---
+Many people across the Thames Valley do not have access to good quality, secure and affordable housing. At Collaborative Housing, we bring together residents, housing associations, councils and landlords to collaborate and learn from each other in order to build better homes, and stronger places.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cSXPj93ZJyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 From exploring the possibilities, to the practicalities of funding, design and planning, our team of advisors are experts in the Thames Valley Housing sector, and they'll help you to identify your local housing needs, design a project around them and translate that to different housing bodies.
