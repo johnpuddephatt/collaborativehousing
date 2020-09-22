@@ -18,7 +18,7 @@ From exploring the possibilities, to the practicalities of funding, design and p
 
 Whether you are a **Community Group, Landowner, or Housing Association**, we provide [hands-on advice and technical support](https://collaborativehousing.org.uk/uploads/collaborative-housing-flyer-a5-new-version-no-bleed.pdf) to take you from initial concept to homes on the ground. From co-housing and community land trusts, to cooperatives and self-help housing, we want to encourage and support communities to find solutions that work for them.
 
-# Here's what some of our partnerships look like:
+## Here's what some of our partnerships look like:
 
 ### **Residents/Community Groups:**
 
