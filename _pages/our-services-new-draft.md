@@ -18,7 +18,7 @@ From exploring the possibilities, to the practicalities of funding, design and p
 
 If you're interested in learning more about what Collaborative Housing can do for you, [join our Webinar on 22 October: An Introduction to Community Led Housing](https://www.eventbrite.co.uk/e/introduction-to-community-led-housing-tickets-121170250481) or
 
-<div class="pullout-box centre"> <h2>Book in a 15-minute chat with one of our advisors</h2> <a class="button" href="/contact.html">Contact us</a> </div>
+<div class="pullout-box centre"> <h2>BOOK IN A 15 MINUTE CHAT WITH ONE OF OUR ADVISORS</h2> <a class="button" href="/contact.html">Contact us</a> </div>
 
 * Including community-led housing delivery routes, organisational and legal entity structures, group processes and decision-making methods, community engagement, group visioning, governance and accountability.
 
