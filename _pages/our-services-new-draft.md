@@ -16,7 +16,7 @@ From exploring the possibilities, to the practicalities of funding, design and p
 
 <div class="pullout-box centre"> <h2> Book in a 15-minute chat with one of our advisors </h2> </div>
 
-Click here to make an appointment
+### [Click here to make an appointment](https://calendly.com/cohohub/15min)
 
 Whether you are a **Community Group, Landowner, or Housing Association**, we provide hands-on advice and technical support to take you from initial concept to homes on the ground. From co-housing and community land trusts, to cooperatives and self-help housing, we want to encourage and support communities to find solutions that work for them.
 
