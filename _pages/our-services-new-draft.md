@@ -10,7 +10,7 @@ Many people across the Thames Valley do not have access to good quality, secure 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cSXPj93ZJyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-From exploring the possibilities, to the practicalities of funding, design and planning, our team of advisors are [https://5bsaohjulxdciw.instant.forestry.io/about-us/our-people/](), and they'll help you to identify your local housing needs, design a project around them and translate that to different housing bodies.
+From exploring the possibilities, to the practicalities of funding, design and planning, our team of advisors are [experts in the Thames Valley housing sector](https://5bsaohjulxdciw.instant.forestry.io/about-us/our-people/), and they'll help you to identify your local housing needs, design a project around them and translate that to different housing bodies.
 
 ### If you're interested in learning more about what Collaborative Housing can do for you, [join our webinar on 22 October](https://www.eventbrite.co.uk/e/introduction-to-community-led-housing-tickets-121170250481) - An Introduction to Community Led Housing, or [Book in a 15-minute chat with one of our advisors](https://calendly.com/cohohub/15min).
 
