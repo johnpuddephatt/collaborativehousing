@@ -14,7 +14,7 @@ From exploring the possibilities, to the practicalities of funding, design and p
 
 ### If you're interested in learning more about what Collaborative Housing can do for you, [join our webinar on 22 October](https://www.eventbrite.co.uk/e/introduction-to-community-led-housing-tickets-121170250481) - An Introduction to Community Led Housing, or
 
-<div class="pullout-box centre"> <h2>Book in a 15-minute chat with one of our advisors</h2> <a class="button" href="/contact">Contact us</a> </div>
+<div class="pullout-box centre"> <h1>Book in a 15-minute chat with one of our advisors</h1> <a class="button" href="/contact">Contact us</a> </div>
 
 Whether you are a **Community Group, Landowner, or Housing Association**, we provide hands-on advice and technical support to take you from initial concept to homes on the ground. From co-housing and community land trusts, to cooperatives and self-help housing, we want to encourage and support communities to find solutions that work for them.
 
