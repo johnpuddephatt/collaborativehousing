@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our services (OLD)-(copy)
+title: Our services (OLD version)
 subtitle: We’re here to help people collaborate and learn from each other
 scripts: ''
 published: false
