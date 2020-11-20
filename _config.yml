@@ -40,7 +40,7 @@ collections:
 # safe:                 false
 include:
   - .htaccess
-  # - _pages
+  - admin
 exclude:
   - package-lock.json
   - package.json
