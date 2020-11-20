@@ -12,7 +12,7 @@ These are some of the projects currently active across the region.
 
 **Hook Norton Community Land Trust** has detailed planning permission for 12 apartments and a community building on a piece of land due to be transferred from Cherwell District Council.
 
-**Oxford Cohousing** has been successful in obtaining grant funding from the Homes England Community Housing Fund to enable site appraisals and pre planning applications on 2 sites in Oxford.
+**Oxford Cohousing** has been successful in obtaining grant funding from the Homes England Community Housing Fund to enable site appraisals and pre planning applications on two sites in Oxford.
 
 **Thame Community Land Trust** has carried out appraisal work on a site in Thame with a view to submitting  a detailed planning application in Autumn 2020.
 
