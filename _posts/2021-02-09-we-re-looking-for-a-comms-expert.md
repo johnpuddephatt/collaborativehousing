@@ -18,4 +18,4 @@ We're looking for someone to :
 * Technically facilitate each online festival session
 * Edit recorded sessions and upload to our You Tube channel and website
 
-#### [**CLICK HERE FOR MORE INFORMATION AND HOW TO EXPRESS AN INTEREST**](/uploads/collaborative-housing-clh-festival-invitation-to-quote-february-2021.pdf "collaborative-housing-clh-festival-invitation-to-quote-february-2021.pdf")
+#### [**CLICK HERE FOR MORE INFORMATION AND HOW TO EXPRESS AN INTEREST**](/uploads/collaborative-housing-clh-festival-invitation-to-quote-february-2021.pdf "collaborative-housing-clh-festival-invitation-to-quote-february-2021.pdf") **-** DEADLINE 28 FEBRUARY 2021
