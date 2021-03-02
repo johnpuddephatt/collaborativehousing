@@ -18,10 +18,9 @@ layout: default
           <img src="{{ post.image }}" />
         </div>
         <div>
-          <h3 class="blog--item--title">{{ post.title }}</h3>
-          <p class="blog--item--excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 120 }} </p>
           <div class="blog--item--date">{{ post.date | date: site.data.config.date_format }}</div>
-          <span class="blog-item--read-more">Read more &rarr;</span>
+          <h3 class="blog--item--title">{{ post.title }}</h3>
+          <p class="blog--item--excerpt">{{ post.excerpt | strip_html | strip_newlines | truncate: 120 }}           <span class="blog--item--read-more">Read more &rarr;</span></p>
         </div>
       </a>
     {% endfor %}
