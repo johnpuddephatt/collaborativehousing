@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Funding
-subtitle: ''
+subtitle: Watch this space
 scripts: ''
-published: false
 
 ---
+Coming soon.
