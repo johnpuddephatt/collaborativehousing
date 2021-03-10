@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Funding
-subtitle: Watch this space!
+subtitle: ''
 scripts: ''
+published: false
 
 ---
