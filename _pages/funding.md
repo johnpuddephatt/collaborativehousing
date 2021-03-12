@@ -18,4 +18,6 @@ It is intended to cover the cost of things like:
 * Training 
 * Surveys etc.
 
-For more information check out the [**INFO LEAFLET  **](/uploads/agile-fund-flyer-digital.pdf "agile-fund-flyer-digital.pdf")and [**APPLICATION FORM**](/uploads/agile-fund-grant-guidance-vfinal.docx "agile-fund-grant-guidance-vfinal.docx")**. We would encourage you to discuss your plans with** [**fiona@cohohub.org.uk**]() **before making an application.**
+For more information check out the [INFO LEAFLET ](/uploads/agile-fund-flyer-digital.pdf "agile-fund-flyer-digital.pdf")and [APPLICATION FORM](/uploads/agile-fund-grant-guidance-vfinal.docx "agile-fund-grant-guidance-vfinal.docx"). 
+
+**We would encourage you to discuss your plans with** [**fiona@cohohub.org.uk**]() **before making an application.**
