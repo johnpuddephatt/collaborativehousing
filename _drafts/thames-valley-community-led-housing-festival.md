@@ -13,3 +13,5 @@ Many people across the Thames Valley do not have access to good quality, secure 
 In the last year we have witnessed the growth of community led housing and action groups across the Thames Valley Region.
 
 We will be exploring topics such as Affordable Housing, Building Partnerships, Sustainable Building, Retrofitting, Diversity in Community-led Housing, and the impact of the pandemic on how we live in our homes and neighbourhoods.'
+
+Please check out our social media for updates.
