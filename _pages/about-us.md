@@ -13,4 +13,4 @@ The hub is currently hosted by [Community First Oxfordshire](https://www.communi
 
 We would also love to hear from you if you are interested in starting a community-led housing project where you live. Likewise if you are a landowner or home-owner who might be interested in working with a community-led housing group.
 
-For more information just email [info@cohohub.org.uk]()
+For more information just email [**info@cohohub.org.uk**](mailto:info@cohohub.org.uk)

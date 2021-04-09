@@ -24,7 +24,7 @@ Whether you are a **Community Group, Landowner, or Housing Association**, we pro
 * **Starting from Scratch:** We'll help you to form a group and develop your vision, engaging with stakeholders, building decision-making processes, and setting up organisational and legal structures.
 * **Consultation, Sites, and Funding:** We'll guide you to carry out community consultations, acquire a site which meets your group's housing needs, and offer support for financial planning and accessing funding.
 * **Project planning, Development, and Ongoing Management:** Our experts will help with business planning, financial appraisals, advice on project management and liaising with development partners, contractors and local authorities, and signpost you to legal and financial services.
-* [**Housing Needs Surveys**](/uploads/housing-needs-survey-digital.pdf "housing-needs-survey-digital.pdf"): By helping your community or group understand the specific housing requirements of residents, an up-to-date Housing Needs Survey can help ensure that your new development best meets local needs. We are currently able to **OFFER A DISCOUNT** on our Housing Needs Survey service - **email** [**info@cohohub.org.uk**]() **for more information.**
+* [**Housing Needs Surveys**](/uploads/housing-needs-survey-digital.pdf "housing-needs-survey-digital.pdf"): By helping your community or group understand the specific housing requirements of residents, an up-to-date Housing Needs Survey can help ensure that your new development best meets local needs. We are currently able to **OFFER A DISCOUNT** on our Housing Needs Survey service - **email** [**info@cohohub.org.uk**](mailto:info@cohohub.org.uk) **for more information.**
 
 ### **Landowners:**
 

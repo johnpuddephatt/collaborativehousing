@@ -20,4 +20,4 @@ It is intended to cover the cost of things like:
 
 For more information check out the [INFO LEAFLET ](/uploads/agile-fund-flyer-digital.pdf "agile-fund-flyer-digital.pdf")and [APPLICATION FORM](/uploads/agile-fund-grant-guidance-vfinal.docx "agile-fund-grant-guidance-vfinal.docx").
 
-**We would encourage you to discuss your plans with us ** [**info@cohohub.org.uk**]() **before making an application.**
+**We would encourage you to discuss your plans with us ** [**info@cohohub.org.uk**](mailto:info@cohohub.org.uk) **before making an application.**
