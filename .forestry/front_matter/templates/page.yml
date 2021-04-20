@@ -23,7 +23,6 @@ fields:
   hidden: true
   default: page
 pages:
-- _pages/conference-for-community-led-housing-in-the-thames-valley.md
 - _pages/contact.md
 - _pages/funding.md
 - _pages/how-to.md
