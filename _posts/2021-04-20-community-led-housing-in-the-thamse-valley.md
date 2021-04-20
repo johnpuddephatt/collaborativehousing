@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Community led housing in the Thamse Valley
+title: Community led housing in the Thames Valley
 image: "/uploads/cohohub-festival-programme-12.png"
 tags:
 - Conference
