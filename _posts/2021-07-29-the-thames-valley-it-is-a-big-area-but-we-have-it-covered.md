@@ -5,3 +5,4 @@ image: "/uploads/logo.png"
 tags: []
 
 ---
+In August we will be on the road as we connect physically with the community led housing groups that we have been working with digitally.
