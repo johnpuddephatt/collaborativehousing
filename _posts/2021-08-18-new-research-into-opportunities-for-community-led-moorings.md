@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New research into opportunities for community led moorings '
+title: 'New Research into Opportunities for Community- Led Moorings '
 image: "/uploads/22337.webp"
 tags: []
 
