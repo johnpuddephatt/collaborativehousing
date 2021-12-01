@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Press Release
-image: "/uploads/yjmetykg.jpeg"
+image: "/uploads/north-terrace-min.jpg"
 tags: []
 
 ---
