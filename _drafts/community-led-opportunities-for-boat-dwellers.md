@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Community -led opportunities for boat dwellers '
-image: ''
+image: "/uploads/22337.webp"
 tags: []
 
 ---
