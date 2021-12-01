@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Funding
-subtitle: Collaborative Housing - Agile Fund
+subtitle: 'Collaborative Housing '
 scripts: ''
 
 ---
