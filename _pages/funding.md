@@ -20,4 +20,6 @@ It is intended to cover the cost of things like:
 
 For more information check out the [INFO LEAFLET ](/uploads/agile-fund-flyer-digital.pdf "agile-fund-flyer-digital.pdf")and [APPLICATION FORM](/uploads/agile-fund-grant-guidance-vfinal.docx "agile-fund-grant-guidance-vfinal.docx").
 
-**We would encourage you to discuss your plans with us ** [**info@cohohub.org.uk**](mailto:info@cohohub.org.uk) **before making an application.**
+\**We would encourage you to discuss your plans with us ** [**info@cohohub.org.uk**](mailto:info@cohohub.org.uk) **before making an application.**
+
+The Agile fund has now closed. Collaborative Housing are working  together with national funders to secure other sources of support. Please get in touch. We will help make contacts.
