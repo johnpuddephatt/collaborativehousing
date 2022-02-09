@@ -54,7 +54,7 @@ The hub’s current offer document states different ways that the hub can help L
   We provide bespoke training for Councils to share knowledge on what is required to deliver community-led housing. We’ve been running these participatory sessions since 2018, using local examples to develop a conversation about how these approaches could assist in meeting strategic priorities.
 * **Thematic briefings**  
   We are at the forefront of research on this nascent sector. As national or local policy changes you will be the first to know what it means for community-led housing, as we reveal the opportunities contained in shifting policy and funding landscapes.
-* **Evidencing housing need**  
+* [**Evidencing housing need**](https://5bsaohjulxdciw.instant.forestry.io/service-Evidence/)  
   We have a long track record in undertaking housing need surveys, often an essential evidence-gathering opportunity for community-led housing developments, urban or rural. We’ve also helped build affordability calulators and bespoke financial appraisal tools for new housing models.
 * **Help with formation of policy.**  
   Housing and planning policy that promotes community-led housing is fundamental to enabling communities to bring forward opportunities and schemes in their local area. There are now national and regional examples of policy that have been successful in supporting community-led housing and the Hub will share this to ensure that we learn from each other and use what works best.
