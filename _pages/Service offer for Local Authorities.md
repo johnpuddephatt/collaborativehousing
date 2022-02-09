@@ -48,21 +48,20 @@ Neighbourhoods that are flexible to the changing needs of residents and those wh
 
 The hub’s current offer document states different ways that the hub can help Local Authorities:
 
-* **Raising awareness**   
+* **Raising awareness**  
   Raising awareness of community led housing for local authorities, parish and town councils and communities through training events and research. The hub can provide bespoke training for Councils to fit with their own policies and level of expertise and undertake research projects to help with the delivery of community led housing within the Borough.
 * **Training events**  
   We provide bespoke training for Councils to share knowledge on what is required to deliver community-led housing. We’ve been running these participatory sessions since 2018, using local examples to develop a conversation about how these approaches could assist in meeting strategic priorities.
 * **Thematic briefings**  
   We are at the forefront of research on this nascent sector. As national or local policy changes you will be the first to know what it means for community-led housing, as we reveal the opportunities contained in shifting policy and funding landscapes.
-
-* **Evidencing housing need**  
+* [**Evidencing housing need**](https://collaborativehousing.org.uk/admin/#/pages/pages-_pages-our-services-copy-md/)  
   We have a long track record in undertaking housing need surveys, often an essential evidence-gathering opportunity for community-led housing developments, urban or rural. We’ve also helped build affordability calulators and bespoke financial appraisal tools for new housing models.
-* **Help with formation of policy.**   
-  Housing and planning policy that promotes community-led housing is fundamental to enabling communities to bring forward opportunities and schemes in their local area. There are now national and regional examples of policy that have been successful in supporting community-led housing and the Hub will share this to ensure that we learn from each other and use what works best. 
+* **Help with formation of policy.**  
+  Housing and planning policy that promotes community-led housing is fundamental to enabling communities to bring forward opportunities and schemes in their local area. There are now national and regional examples of policy that have been successful in supporting community-led housing and the Hub will share this to ensure that we learn from each other and use what works best.
 * **Delivering technical advice and support**  
-   to local councils and communities from inception to completion of community-led housing. Once opportunities have been identified and local community-led housing groups are formed, the Hub will offer a wide range of technical advice and support from the setting up of the group, right through to completion on-site. Community groups will be provided with solutions tailored to their aspirations and the Hub will oversee the quality of the advice and support provided to them throughout. Some help to groups will be free initially and paid for by the MHCLH Grant. After this, these services will be a paid-for service as part of the development costs. 
+  to local councils and communities from inception to completion of community-led housing. Once opportunities have been identified and local community-led housing groups are formed, the Hub will offer a wide range of technical advice and support from the setting up of the group, right through to completion on-site. Community groups will be provided with solutions tailored to their aspirations and the Hub will oversee the quality of the advice and support provided to them throughout. Some help to groups will be free initially and paid for by the MHCLH Grant. After this, these services will be a paid-for service as part of the development costs.
 * **Specific one-off projects**  
-  The hub can add capacity to your staff team by undertaking specific projects that might drive more community led housing. For example, working to promote opportunities to people on the self-build register or bespoke pieces of research. 
+  The hub can add capacity to your staff team by undertaking specific projects that might drive more community led housing. For example, working to promote opportunities to people on the self-build register or bespoke pieces of research.
 * **Project introductions**  
   We are able to introduce you to the community groups and landowners we are working with in the pursuit of bringing sites forward. Through our outreach we have a good measure of the demand for community-led housing.
 * **Group management**  
