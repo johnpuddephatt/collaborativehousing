@@ -42,22 +42,52 @@ Involving residents in the design of their homes results in more ambitious energ
 
 * **Responsive to change**
 
-Neighbourhoods that are flexible to the changing needs of residents and those who require dedicated care services.If you're interested in learning more about what Collaborative Housing can do for you, [Book in a 15-minute chat](https://calendly.com/cohohub/15min) with one of our advisors.
+Neighbourhoods that are flexible to the changing needs of residents and those who require dedicated care services.
 
-<h3></h3>
+# Our offer
 
-## Here's how we might work with you:
+The hub’s current offer document states different ways that the hub can help Local Authorities:
 
-### **Local authorities**
+* **Raising awareness**   
+  Raising awareness of community led housing for local authorities, parish and town councils and communities through training events and research. The hub can provide bespoke training for Councils to fit with their own policies and level of expertise and undertake research projects to help with the delivery of community led housing within the Borough.
+* **Training events**  
+  We provide bespoke training for Councils to share knowledge on what is required to deliver community-led housing. We’ve been running these participatory sessions since 2018, using local examples to develop a conversation about how these approaches could assist in meeting strategic priorities.
+* **Thematic briefings**  
+  We are at the forefront of research on this nascent sector. As national or local policy changes you will be the first to know what it means for community-led housing, as we reveal the opportunities contained in shifting policy and funding landscapes.
 
-* **We can help support you ....**
-* [**Housing Needs Surveys**](/uploads/housing-needs-survey-digital.pdf "housing-needs-survey-digital.pdf"): By helping your community or group understand the specific housing requirements of residents, an up-to-date Housing Needs Survey can help ensure that your new development best meets local needs. We are currently able to **OFFER A DISCOUNT** on our Housing Needs Survey service - **email** [**info@cohohub.org.uk**](mailto:info@cohohub.org.uk) **for more information.**
-* 
+* **Evidencing housing need**  
+  We have a long track record in undertaking housing need surveys, often an essential evidence-gathering opportunity for community-led housing developments, urban or rural. We’ve also helped build affordability calulators and bespoke financial appraisal tools for new housing models.
+* **Help with formation of policy.**   
+  Housing and planning policy that promotes community-led housing is fundamental to enabling communities to bring forward opportunities and schemes in their local area. There are now national and regional examples of policy that have been successful in supporting community-led housing and the Hub will share this to ensure that we learn from each other and use what works best. 
+* **Delivering technical advice and support**  
+   to local councils and communities from inception to completion of community-led housing. Once opportunities have been identified and local community-led housing groups are formed, the Hub will offer a wide range of technical advice and support from the setting up of the group, right through to completion on-site. Community groups will be provided with solutions tailored to their aspirations and the Hub will oversee the quality of the advice and support provided to them throughout. Some help to groups will be free initially and paid for by the MHCLH Grant. After this, these services will be a paid-for service as part of the development costs. 
+* **Specific one-off projects**  
+  The hub can add capacity to your staff team by undertaking specific projects that might drive more community led housing. For example, working to promote opportunities to people on the self-build register or bespoke pieces of research. 
+* **Project introductions**  
+  We are able to introduce you to the community groups and landowners we are working with in the pursuit of bringing sites forward. Through our outreach we have a good measure of the demand for community-led housing.
+* **Group management**  
+  We can add capacity to council staff teams by managing housing projects, promoting opportunities to people on the self-build register or conducting bespoke pieces of research to facilitate the delivery of community-led housing.
 
-### **Registered Providers (Housing Associations):**
+# How we do this
 
-* **Development opportunities:** We'll bring you a ready-formed group with a site opportunity to help you deliver affordable housing.
-* **Negotiate partnership arrangements:** We'll help you to structure partnership agreements specific to community-led housing groups to share out the risk and benefits of the development.
-* **Technical support:** We'll act as a professional intermediary between the group and the housing association, to facilitate the partnership.
+* Access to online community platform
+* Your logo on our website
+* Regular insights newsletter
+* Quarterly forum events
+* Support from our CIH-accredited technical advisors
+* Exemplar document suite
+* Your project achievements celebrated in our marketing and publicity
 
-<div class="pullout-box centre"> <h2>Need help? Have any questions?</h2> <p>Whether you are a group, Local Authority, landowner or potential development partner please do get in touch with our dedicated community-led housing team.</p> <a class="button" href="/contact">Contact us</a> </div>
+# Our ask of you
+
+Across the UK, more
+
+and more local authorities are signing up to support community-led housing.
+
+To enable Collaborative Housing to help your communities deliver more housing, we are asking Local Authorities in the Thames Valley to make a contribution of £2,000 per year, with a minimum two year subscription to ensure we can meet your needs.
+
+Your support is vital in helping us build a financially sustainable service. More information about this role can be found on our website.
+
+If you’re interested in learning more about what Collaborative Housing can do for you, book in a 15-minute chat with one of our advisors.
+
+[Book a meeting](https://calendly.com/cohohub/15min?month=2022-02) or send us an email [**info@cohohub.org.uk**](mailto:info@cohohub.org.uk) for more information.
