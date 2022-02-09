@@ -3,7 +3,6 @@ layout: page
 title: Our services-Local Authorities
 subtitle: How Collaborative Housing can help Local Authorities
 scripts: ''
-published: false
 
 ---
 ### The Collaborative Housing Alliance
