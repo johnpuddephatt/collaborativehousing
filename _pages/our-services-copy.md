@@ -74,11 +74,9 @@ High turnover and over-crowding in poor quality private rented homes of multiple
 * Good housing design contributes increased community cohesion and pride and reduced vandalism and crime
 * Collective builders put down deep roots and move on average every 25 years compared to the national average of 6 years.
 
-# **Housing and Education**
+# **Housing and** **Education**
 
-**Issue**: 
-
-High vacancy rates in schools at all levels because of high housing costs (“Wheatley Park School headteacher Kate Curtis ... told councillors staff were being driven out of Oxford due to high house prices … Oxford Spires Academy in East Oxford unveiled plans to build its own homes for teachers on the school site in a bid to attract talented staff” Oxford Mail, 30 Oct 2017).
+**Issue**:                                                                                                      High vacancy rates in schools at all levels because of high housing costs (“Wheatley Park School headteacher Kate Curtis ... told councillors staff were being driven out of Oxford due to high house prices … Oxford Spires Academy in East Oxford unveiled plans to build its own homes for teachers on the school site in a bid to attract talented staff” Oxford Mail, 30 Oct 2017).
 
 a) SEN Home to School Transport - ongoing pressure from 2016/17 and expected demographic increase in each year.
 
