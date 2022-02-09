@@ -13,7 +13,7 @@ From exploring the possibilities, to the practicalities of funding, design and p
 
 ### [**Our Service offer for local Authorities** **is Here**](https://5bsaohjulxdciw.instant.forestry.io/Service%20offer%20for%20Local%20Authorities/)
 
-###### If you're interested in learning more about what Collaborative Housing can do for you, [Book in a 15-minute chat](https://calendly.com/cohohub/15min) with one of our advisors.
+###### If you're interested in learning more about what Collaborative Housing can do for you,please feel free to  [Book in a 15-minute chat](https://calendly.com/cohohub/15min) with one of our advisors.
 
 <h3></h3>
 
