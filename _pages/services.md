@@ -11,9 +11,9 @@ Many people across the Thames Valley do not have access to good quality, secure 
 
 From exploring the possibilities, to the practicalities of funding, design and planning, our team of advisors are [experts in the Thames Valley housing sector](https://5bsaohjulxdciw.instant.forestry.io/about-us/our-people/), and they'll help you to identify your local housing needs, design a project around them and translate that to different housing bodies.
 
-**Our Service offer for local Authorities** [is Here](https://5bsaohjulxdciw.instant.forestry.io/Service%20offer%20for%20Local%20Authorities/)
+**Our Service offer for local Authorities** [**is Here**](https://5bsaohjulxdciw.instant.forestry.io/Service%20offer%20for%20Local%20Authorities/)
 
-### If you're interested in learning more about what Collaborative Housing can do for you, [Book in a 15-minute chat](https://calendly.com/cohohub/15min) with one of our advisors.
+###### If you're interested in learning more about what Collaborative Housing can do for you, [Book in a 15-minute chat](https://calendly.com/cohohub/15min) with one of our advisors.
 
 <h3></h3>
 
