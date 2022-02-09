@@ -23,7 +23,6 @@ fields:
   hidden: true
   default: page
 pages:
-- _pages/Evidence.md
 - _pages/Service offer for Local Authorities.md
 - _pages/contact.md
 - _pages/funding.md
@@ -37,4 +36,5 @@ pages:
 - _pages/our-services-old-copy.md
 - _pages/projects-copy.md
 - _pages/projects.md
+- _pages/service-Evidence.md
 - _pages/services.md
