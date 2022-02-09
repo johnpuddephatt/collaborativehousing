@@ -3,7 +3,6 @@ layout: page
 title: Service-Evidence
 subtitle: ''
 scripts: ''
-published: false
 
 ---
 # **Enabling community-led housing projects in Oxfordshire**
