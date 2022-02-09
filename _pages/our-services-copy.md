@@ -82,6 +82,10 @@ a) SEN Home to School Transport - ongoing pressure from 2016/17 and expected dem
 
 * CLTs could offer housing specifically restricted to teachers and other key employees.
 
+###### 
+
+<div class="pullout-box centre"> <h2>Need help? Have any questions?</h2> <p>Whether you are a group, Local Authority, landowner or potential development partner please do get in touch with our dedicated community-led housing team.</p> <a class="button" href="/contact">Contact us</a> </div>
+
 # **Bibliography**
 
 Berggren HM (2013) Cohousing as Civic Society: Cohousing Involvement and Political Participation in Massachusetts Heidi M. Berggren University of Massachusetts-Dartmouth. New England Journal of Political Science 7(1): 21.
@@ -125,7 +129,3 @@ Bringing Democracy Home published by the Commission on Co-operative and Mutual H
 Confederation of Cooperative Housing. The Case for Cooperative and Community Led Housing – The Evidence Base[ ](http://www.cch.coop/wp-content/uploads/2017/02/The-case-for-CCLH-evidence-base.pdf)[http://www.cch.coop/wp-content/uploads/2017/02/The-case-for-CCLH-evidence-base.pdf](https://www.housinglin.org.uk/_assets/Resources/Housing/Support_materials/Practice_briefings/HLIN_CohousingBriefing2_commissioners.pdf "https://www.housinglin.org.uk/_assets/Resources/Housing/Support_materials/Practice_briefings/HLIN_CohousingBriefing2_commissioners.pdf") 2016
 
 Powerful Communities, Strong Economies The final report of the Keep it Local for Economic Resilience Action Research Project locality.org.uk
-
-###### 
-
-<div class="pullout-box centre"> <h2>Need help? Have any questions?</h2> <p>Whether you are a group, Local Authority, landowner or potential development partner please do get in touch with our dedicated community-led housing team.</p> <a class="button" href="/contact">Contact us</a> </div>
