@@ -82,8 +82,6 @@ a) SEN Home to School Transport - ongoing pressure from 2016/17 and expected dem
 
 * CLTs could offer housing specifically restricted to teachers and other key employees.
 
-###### 
-
 <div class="pullout-box centre"> <h2>Need help? Have any questions?</h2> <p>Whether you are a group, Local Authority, landowner or potential development partner please do get in touch with our dedicated community-led housing team.</p> <a class="button" href="/contact">Contact us</a> </div>
 
 # **Bibliography**
