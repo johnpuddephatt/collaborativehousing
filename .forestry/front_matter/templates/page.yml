@@ -23,6 +23,7 @@ fields:
   hidden: true
   default: page
 pages:
+- _pages/Service offer for Local Authorities.md
 - _pages/contact.md
 - _pages/funding.md
 - _pages/how-to.md
@@ -32,7 +33,6 @@ pages:
 - _pages/join-us.md
 - _pages/our-festival.md
 - _pages/our-festival/videos-from-the-festival.md
-- _pages/our-services-copy.md
 - _pages/our-services-old-copy.md
 - _pages/projects-copy.md
 - _pages/projects.md
