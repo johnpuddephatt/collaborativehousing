@@ -74,9 +74,9 @@ High turnover and over-crowding in poor quality private rented homes of multiple
 * Good housing design contributes increased community cohesion and pride and reduced vandalism and crime
 * Collective builders put down deep roots and move on average every 25 years compared to the national average of 6 years.
 
-Housing and Education
+# **Housing and Education**
 
-**Issue**:
+**Issue**: 
 
 High vacancy rates in schools at all levels because of high housing costs (“Wheatley Park School headteacher Kate Curtis ... told councillors staff were being driven out of Oxford due to high house prices … Oxford Spires Academy in East Oxford unveiled plans to build its own homes for teachers on the school site in a bid to attract talented staff” Oxford Mail, 30 Oct 2017).
 
@@ -84,7 +84,7 @@ a) SEN Home to School Transport - ongoing pressure from 2016/17 and expected dem
 
 * CLTs could offer housing specifically restricted to teachers and other key employees.
 
-# **Bibliography**
+###### **Bibliography**
 
 ###### Berggren HM (2013) Cohousing as Civic Society: Cohousing Involvement and Political Participation in Massachusetts Heidi M. Berggren University of Massachusetts-Dartmouth. New England Journal of Political Science 7(1): 21.
 
