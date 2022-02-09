@@ -126,8 +126,6 @@ Confederation of Cooperative Housing. The Case for Cooperative and Community Led
 
 Powerful Communities, Strong Economies The final report of the Keep it Local for Economic Resilience Action Research Project locality.org.uk
 
-The Money Trail New Economics Foundation 2002 nefconsulting.com/wp-content/uploads/2017/05/TheMoneyTrail.pdf
-
 ###### 
 
 <div class="pullout-box centre"> <h2>Need help? Have any questions?</h2> <p>Whether you are a group, Local Authority, landowner or potential development partner please do get in touch with our dedicated community-led housing team.</p> <a class="button" href="/contact">Contact us</a> </div>
