@@ -7,13 +7,11 @@ scripts: ''
 ---
 # **Enabling community-led housing projects in Oxfordshire**
 
-Evidence to support Oxfordshire County Council’s application to the Community Housing Fund 2018
+The following is a list of benefits for which the Council could claim revenue savings through the enablement of community-led housing. 
 
-The following is a list of benefits for which the Council could claim revenue savings through the enablement of community-led housing. The headings are taken from the statutory duties found in the County Council’s Financial Plan 2017/18 - 2020/21. “The Council will try wherever possible to influence investment through the targeted use of its limited capital resources to lever in external funding and project specific grants where these meet the Council’s priorities and objectives” and thus it is important to make clear the alignment of those objectives with the [Community Housing Fund 2018](https://www.gov.uk/government/collections/community-housing-fund) through which this enabling project could be funded in its entirety.
+## **Evidence for potential savings through Community-Led Housing**
 
-# **Evidence for potential savings through Community-Led Housing**
-
-# **Housing and Public Health**
+### **Housing and Public Health**
 
 **Issue:**
 
