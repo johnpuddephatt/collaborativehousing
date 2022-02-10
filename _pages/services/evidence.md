@@ -7,7 +7,7 @@ scripts: ''
 ---
 # **Enabling community-led housing projects in Oxfordshire**
 
-The following is a list of benefits for which the Council could claim revenue savings through the enablement of community-led housing. 
+The following is a list of benefits for which the Council could claim revenue savings through the enablement of community-led housing.
 
 ## **Evidence for potential savings through Community-Led Housing**
 
@@ -15,22 +15,24 @@ The following is a list of benefits for which the Council could claim revenue sa
 
 **Issue:**
 
-a) Poor-condition housing costs the NHS around £1.4bn per year (Nicol et al 2015).
+a) Poor-condition housing costs the NHS around £1.4bn per year ([Nicol et al 2015](https://www.bre.co.uk/filelibrary/pdf/87741-Cost-of-Poor-Housing-Briefing-Paper-v3.pdf)).
 
 b) People’s need for statutory health and social care services is increased if they are lonely and socially isolated (Investing to Tackle Loneliness, UK Cabinet Office & NESTA, June 2015)
 
-**Opportunity:**                                                                                                  Reduced loneliness results in fewer acute hospital admissions (Monbiot 2018)
+**Opportunity:**                                                                                                  
 
 * **Reduced loneliness** and higher well-being in co-operative and community-led housing ([link](http://bccm.coop/international-review-fixing-housing-crisis-co-operative-housing/#.W4_g084zqHs))
-* Community-led housing can create a living environment where people are in frequent contact and “look out for each other” (Older Women’s Co-Housing, [http://www.owch.org.uk](http://www.owch.org.uk "http://www.owch.org.uk"))
+* Reduced loneliness results in **fewer acute hospital admissions** ([Monbiot 2018](https://www.theguardian.com/commentisfree/2018/feb/21/town-cure-illness-community-frome-somerset-isolation))
+* Community-led housing can create a living environment where people are in frequent contact and “look out for each other” ([Older Women’s Co-Housing](http://www.owch.org.uk))
+* **Greater social cohesion** and generation of social capital through co-operative and community-led models ([Lang & Novy 2014](https://doi.org/10.1080/09654313.2013.800025))
 
-**Greater social cohesion** and generation of social capital through co-operative and community-led models (Lang & Novy 2014)
-
-# **Housing and Children’s Services**
+### **Housing and Children’s Services**
 
 **Issue:**
 
 a) Pressure for Corporate Parent responsibilities, including internal and external placements from 2016/17 and expected increase in placements each year.
+
+**Opportunity**
 
 * **Greater levels of mutual support** between residents, including young children and their parents through mixed tenure housing arranged as cohousing.
 * **Children get a better start in life** through a focus on planning and designing healthier housing. Cohousing has shown to offer a better physical environments for children to grow up. ([YouTube link](https://www.youtube.com/watch?time_continue=6&v=HowsXEQhuJg))
@@ -59,7 +61,7 @@ a) Pressure for Corporate Parent responsibilities, including internal and extern
   * Cohousing may reduce, or offset, the need for residential care due to enabling active, independent ageing throughout life-stages. Downsizers have the option of remaining in their existing homes (HAPPI 2009)
   * Cohousing for older people has advantages, such as age-friendly living environments, that help people self-care for longer and therefore avoid traditional kinds of care and support (Riseborough 2013).
 
-# **Housing and Community Safety**
+### **Housing and Community Safety**
 
 **Issue:**
 
@@ -71,7 +73,7 @@ High turnover and over-crowding in poor quality private rented homes of multiple
 * Good housing design contributes increased community cohesion and pride and reduced vandalism and crime
 * Collective builders put down deep roots and move on average every 25 years compared to the national average of 6 years.
 
-# **Housing and** **Education**
+### **Housing and** **Education**
 
 **Issue**:                                                                                                                   High vacancy rates in schools at all levels because of high housing costs (“Wheatley Park School headteacher Kate Curtis ... told councillors staff were being driven out of Oxford due to high house prices … Oxford Spires Academy in East Oxford unveiled plans to build its own homes for teachers on the school site in a bid to attract talented staff” Oxford Mail, 30 Oct 2017).
 
@@ -81,7 +83,7 @@ a) SEN Home to School Transport - ongoing pressure from 2016/17 and expected dem
 
 <div class="pullout-box centre"> <h2>Need help? Have any questions?</h2> <p>Whether you are a group, Local Authority, landowner or potential development partner please do get in touch with our dedicated community-led housing team.</p> <a class="button" href="/contact">Contact us</a> </div>
 
-# **Bibliography**
+## **Bibliography**
 
 Berggren HM (2013) Cohousing as Civic Society: Cohousing Involvement and Political Participation in Massachusetts Heidi M. Berggren University of Massachusetts-Dartmouth. New England Journal of Political Science 7(1): 21.
 
