@@ -23,7 +23,7 @@ fields:
   hidden: true
   default: page
 pages:
-- _pages/Service offer for Local Authoities.md
+- _pages/Local Authoities.md
 - _pages/contact.md
 - _pages/funding.md
 - _pages/how-to.md
