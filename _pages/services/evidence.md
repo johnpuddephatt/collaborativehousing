@@ -5,30 +5,28 @@ subtitle: How our work can achieve savings
 scripts: ''
 
 ---
-# **Enabling community-led housing projects in Oxfordshire**
+## **Evidence for potential savings through Community-Led Housing**
 
 The following is a list of benefits for which the Council could claim revenue savings through the enablement of community-led housing.
 
-## **Evidence for potential savings through Community-Led Housing**
+### **Public Health**
 
-### **Housing and Public Health**
-
-**Issue:**
+**Issue**
 
 a) Poor-condition housing costs the NHS around £1.4bn per year ([Nicol et al 2015](https://www.bre.co.uk/filelibrary/pdf/87741-Cost-of-Poor-Housing-Briefing-Paper-v3.pdf)).
 
 b) People’s need for statutory health and social care services is increased if they are lonely and socially isolated (Investing to Tackle Loneliness, UK Cabinet Office & NESTA, June 2015)
 
-**Opportunity:**                                                                                                  
+**Opportunity**
 
 * **Reduced loneliness** and higher well-being in co-operative and community-led housing ([link](http://bccm.coop/international-review-fixing-housing-crisis-co-operative-housing/#.W4_g084zqHs))
 * Reduced loneliness results in **fewer acute hospital admissions** ([Monbiot 2018](https://www.theguardian.com/commentisfree/2018/feb/21/town-cure-illness-community-frome-somerset-isolation))
 * Community-led housing can create a living environment where people are in frequent contact and “look out for each other” ([Older Women’s Co-Housing](http://www.owch.org.uk))
 * **Greater social cohesion** and generation of social capital through co-operative and community-led models ([Lang & Novy 2014](https://doi.org/10.1080/09654313.2013.800025))
 
-### **Housing and Children’s Services**
+### **Children’s Services**
 
-**Issue:**
+**Issue**
 
 a) Pressure for Corporate Parent responsibilities, including internal and external placements from 2016/17 and expected increase in placements each year.
 
@@ -39,23 +37,25 @@ a) Pressure for Corporate Parent responsibilities, including internal and extern
 * **Greater focus on affordable housing in perpetuity**, both for rent and ownership which is vital for families with young children [(e.g. LILAC in Leeds)](https://www.youtube.com/watch?v=R-wngx7v_eU)
 * Retaining much of the value that comes from development in the locality can fund quality infrastructure, affordable housing, and additional community benefits. It also enables investors and landowners to benefit from the creation of value over the long term.
 
-  # **Housing and Adult Social Care**
+  ### **Adult Social Care**
 
-  **Issue:**
+  **Issue**
 
   a) Legal Recharges for Social Care - increasing number of cases
 
-  b)The council is predicting a continuing increase in demand for social care and is budgeting accordingly \[SCS1-1A\] (Oxfordshire County Council 2017)
+  b) Predicted a continued increase in demand for social care and is budgeting accordingly 
 
-  c) Planned reductions in expenditure within the Older People's Pooled Budget are not likely to be achievable. \[SCS1-1A\]
+  c) Increasing expenditure within the budgets for Older People.  
+  d) Review the way respite is provided to focus more on alternatives to bed based respite i.e. increased care at home could provide more effective ways of ensuring carers get the breaks they need”  
+  e) A reduction in care home admissions and better targeting of services to those who need them most could result from reviewing the placement strategy in extra care housing”
 
-  **Opportunity:**
+  **Opportunity**
+  * **Responsive to the changing needs of older residents** 
 
-  “Review the way respite is provided to focus more on alternatives to bed based respite i.e. increased care at home could provide more effective ways of ensuring carers get the breaks they need” \[SCS1-1A\]. “A reduction in care home admissions and better targeting of services to those who need them most could result from reviewing the placement strategy in extra care housing”
 
-  **Responsive to the changing needs of older residents** and those living with disabilities (Coele 2014) particularly through cohousing models.
   * Recent CLH schemes led by, and aimed specifically at, older people offer support networks to those who may otherwise find themselves living alone but do not want ‘paternalistic’ conventional housing for older people provided by Local Authorities or Charities (Scanlon and Arrigoitia 2015)
-  * Independent research shows that service provision statistics from community-led housing are generally as good as, if not better, than the best of other housing providers, with high satisfaction rates (Commission on Co-operative and Mutual Housing 2009)
+  * **Responsive to those living with disabilities** (Coele 2014) particularly through cohousing models.
+  * Service provision statistics from community-led housing are generally as good as, if not better, than the best of other housing providers, with high satisfaction rates (Commission on Co-operative and Mutual Housing 2009)
   * There is a growing demand for greater social and financial autonomy in later life which cohousing can offer. eg [a mutual care home in Stroud](http://www.woodchestervalleyvillage.co.uk).
   * Community led housing schemes focus on keeping people well, living healthy, happy lives in their own communities, rather than in need of expensive, institution-based treatment and care. (Powerful Communities, Strong Economies, Locality)
   * Cohousing may reduce, or offset, the need for residential care due to enabling active, independent ageing throughout life-stages. Downsizers have the option of remaining in their existing homes (HAPPI 2009)
