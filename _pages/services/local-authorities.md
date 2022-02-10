@@ -3,48 +3,37 @@ layout: page
 title: Our service offer for local authorities
 subtitle: Collaborative Housing support
 scripts: ''
-published: true
 
 ---
 ### The Collaborative Housing Alliance
 
-A partnership offer for Local Authorities
-
 # Why should local authorities be interested?
 
-**New finance**
+**New finance  
+**Bringing alternative sources of finance to housing projects, such as citizen-lending.
 
-Bringing alternative sources of finance to housing projects, such as citizen-lending.
+**Value for money  
+**Each pound invested generates higher value in return than conventional housing development.
 
-**Value for money**
+**Additionality  
+**Homes are built that would not otherwise be delivered.
 
-Each pound invested generates higher value in return than conventional housing development.
+**Public Support  
+**Our workshop approaches generate public support for new housing, unlocking previously unavailable sites.
 
-**Additionality**
+**Identifying sites  
+**New land supply brought into the development process that would not have been possible through other means.
 
-Homes are built that would not otherwise be delivered.
+**Social cohesion  
+**The generation of social capital has been proven to be higher through community-led models.
 
-**Public Support**
+**Climate targets  
+**Involving residents in the design of their homes results in more ambitious energy approaches, in part due to the pursuit of lower monthly bills.
 
-Our workshop approaches generate public support for new housing, unlocking previously unavailable sites.
+**Responsive to change  
+**Neighbourhoods that are flexible to the changing needs of residents and those who require dedicated care services.
 
-**Identifying sites**
-
-New land supply brought into the development process that would not have been possible through other means.
-
-**Social cohesion**
-
-The generation of social capital has been proven to be higher through community-led models.
-
-**Climate targets**
-
-Involving residents in the design of their homes results in more ambitious energy approaches, in part due to the persuit of lower monthly bills.
-
-**Responsive to change**
-
-Neighbourhoods that are flexible to the changing needs of residents and those who require dedicated care services.
-
-# Our offer
+## Our offer
 
 The hub’s current offer document states different ways that the hub can help Local Authorities:
 
@@ -55,7 +44,7 @@ The hub’s current offer document states different ways that the hub can help L
 * **Thematic briefings**  
   We are at the forefront of research on this nascent sector. As national or local policy changes you will be the first to know what it means for community-led housing, as we reveal the opportunities contained in shifting policy and funding landscapes.
 * [**Evidencing housing need**](/services/evidence)  
-  We have a long track record in undertaking housing need surveys, often an essential evidence-gathering opportunity for community-led housing developments, urban or rural. We’ve also helped build affordability calulators and bespoke financial appraisal tools for new housing models.
+  We have a long track record in undertaking housing need surveys, often an essential evidence-gathering opportunity for community-led housing developments, urban or rural. We’ve also helped build affordability calculators and bespoke financial appraisal tools for new housing models.
 * **Help with formation of policy.**  
   Housing and planning policy that promotes community-led housing is fundamental to enabling communities to bring forward opportunities and schemes in their local area. There are now national and regional examples of policy that have been successful in supporting community-led housing and the Hub will share this to ensure that we learn from each other and use what works best.
 * **Delivering technical advice and support**  
