@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our services-Local Authorities
-subtitle: How Collaborative Housing can help Local Authorities
+subtitle: https://collaborativehousing.org.uk/localauthorities
 scripts: ''
 
 ---
