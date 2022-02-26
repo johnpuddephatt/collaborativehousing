@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations to Oxfordshire CLT!
+title: Congratulations to OxfordshireCLT!
 image: "/uploads/picture1.png"
 tags: []
 
