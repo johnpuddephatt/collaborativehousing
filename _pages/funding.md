@@ -3,6 +3,7 @@ layout: page
 title: Funding
 subtitle: 'Collaborative Housing '
 scripts: ''
+published: false
 
 ---
 We know the the early stages of a community-led housing project can often be the most challenging.
