@@ -17,3 +17,5 @@ This community is now keen to explore possibilities that extends to Community-le
 Boaters in other cities and along other rivers that are interlinked, are also exploring similar ways of launching Community-led approach to better manage rivers, Canals, Boat and moorings.
 
 Please join us to hear the latest report and that relates to Oxford and beyond.
+
+For more information, please get in touch with us via Info@cohohub.org.uk 
