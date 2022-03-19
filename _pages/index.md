@@ -54,6 +54,5 @@ why_collaborative_housing:
     subtitle: Houses that work with the environment not against it is our key belief,
       as they play a big role in people’s integration with the environment.
     image: "/uploads/sustainability-01-01.png"
-published: false
 
 ---
