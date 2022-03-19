@@ -9,9 +9,9 @@ announcement:
   description: "Although our office is currently closed we are still available to
     support groups so please do continue to get in touch with any questions. \n\nWhilst
     it is inevitable that the current situation will slow some aspects of projects,
-    this period provides great opportunities for visioning and planning. We are
-    still very happy to support through online meetings and are developing more
-    online training support. "
+    this period provides great opportunities for visioning and planning. We are still
+    very happy to support through online meetings and are developing more online training
+    support. "
   link: 
 intro:
   subheading: Collaborative Housing provides advice and support so people across the
@@ -54,5 +54,6 @@ why_collaborative_housing:
     subtitle: Houses that work with the environment not against it is our key belief,
       as they play a big role in people’s integration with the environment.
     image: "/uploads/sustainability-01-01.png"
+published: false
 
 ---
