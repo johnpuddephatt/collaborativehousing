@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What floats your boat?- community-led Moorings do.
+title: Community-led Moorings and what they can offer.
 image: "/uploads/screenshot-2022-03-14-at-20-25-43-plan-to-stop-boaters-being-forgotten-and-improve-waterways-to-launch.png"
 tags:
 - Community-led moorings
@@ -8,14 +8,12 @@ tags:
 - 'Oxford moorings '
 
 ---
-We are looking forward to sharing our newest report with you.It explores community-led moorings and the possibilities this can open up.
+On the 16th March we launched our report on community-led moorings.
 
-Living in Oxford is expensive and homes are in high demand. This has led many to look at their options. For some this might be to live on a boat. Living on a floating home sounds romantic and is great way of living close to nature. It is however also a very physical way of life that creates a strong community that can be called on when help is needed.
+The conversations were informative and have potential to push the thinking around what community-led moorings can offer in to 'fresh waters'.
 
-This community is now keen to explore possibilities that extends to Community-led moorings that can offer support but also expand to better maintenance of waterways that would help biodiversity and sustainability in the long-term. 
+You can find a link to the recording of the event [here ](https://youtu.be/F_yhc9E17OU)
 
-Boaters in other cities and along other rivers that are interlinked, are also exploring similar ways of launching Community-led approach to better manage rivers, Canals, Boat and moorings.
+Please feel free to join this conversation and stay in touch with the next stages of this journey by filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLSdfUT1HJet0XKVkd2THgNBndDasTZSFAynwML7bz-P4ziSo5A/viewform?usp=sf_link)
 
-Please join us to hear the latest report and that relates to Oxford and beyond.
-
-For more information, please get in touch with us via Info@cohohub.org.uk 
+We look forward to hearing from you.
