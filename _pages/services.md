@@ -5,38 +5,55 @@ subtitle: ''
 scripts: ''
 
 ---
-Many people across the Thames Valley do not have access to good quality, secure and affordable housing. At Collaborative Housing, we bring together residents, housing associations, councils and landlords to collaborate and learn from each other in order to build better homes, and stronger places.
+**We offer new groups a free, hour-long online session to explore your ideas and give advice on the community-led housing process.**
+
+**For existing groups or those requiring specific advice, we offer an initial - no obligation - chat with one of our** [**expert team**](/about-us/our-people/) **to talk through your needs in more detail and provide a proposal that meets your requirements.**
+
+Our hands-on advice and technical support covers the whole life-cycle of a project, from initial idea to homes on the ground, developing solutions that work for you.
+
+**Please get in touch with us -** [**info@cohohub.org.uk**](mailto:info@cohohub.org.uk) **- for more information.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cSXPj93ZJyI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-From exploring the possibilities, to the practicalities of funding, design and planning, our team of advisors are [experts in the Thames Valley housing sector](/about-us/our-people/), and they'll help you to identify your local housing needs, design a project around them and translate that to different housing bodies.
+## Here's how we might help
 
-### [**Our Service offer for local Authorities** **is here**](/services/local-authorities)
+### **Getting started**
 
-If you're interested in learning more about what Collaborative Housing can do for you, please feel free to  [Book in a 15-minute chat](https://calendly.com/cohohub/15min) with one of our advisors.
+* Exploring different community-led housing options, helping your group to develop a vision.
+* Helping the group access early-stage funding to help with community outreach, develop group structure and identity, and undertake relevant research.
 
-<h3></h3>
+### **Developing the project**
 
-Whether you are a **Community Group, Landowner, or Housing Association**, we provide hands-on advice and technical support to take you from initial concept to homes on the ground. From co-housing and community land trusts, to cooperatives and self-help housing, we want to encourage and support communities to find solutions that work for them.
+* Engaging with stakeholders - we can help you talk to the right people to make your project happen.
+* Exploring whether a housing needs survey might benefit your community to fully understand the hidden housing needs of local people.
+* Supporting governance: advice on committee structure, incorporation, insurance, bank accounts, and policies.
 
-## Here's how we might work with you:
+### **Consultation, sites and funding**
 
-### **Residents/Community Groups:**
+* Helping you to carry out community consultations
+* Helping you to acquire a site which meets your group’s housing needs.
+* Supporting site appraisal, financial planning, and accessing funding.
+* Offering expert planning advice.
 
-* **Starting from Scratch:** We'll help you to form a group and develop your vision, engaging with stakeholders, building decision-making processes, and setting up organisational and legal structures.
-* **Consultation, Sites, and Funding:** We'll guide you to carry out community consultations, acquire a site which meets your group's housing needs, and offer support for financial planning and accessing funding.
-* **Project planning, Development, and Ongoing Management:** Our experts will help with business planning, financial appraisals, advice on project management and liaising with development partners, contractors and local authorities, and signpost you to legal and financial services.
-* [**Housing Needs Surveys**](/uploads/housing-needs-survey-digital.pdf "housing-needs-survey-digital.pdf"): By helping your community or group understand the specific housing requirements of residents, an up-to-date Housing Needs Survey can help ensure that your new development best meets local needs. We are currently able to **OFFER A DISCOUNT** on our Housing Needs Survey service - **email** [**info@cohohub.org.uk**](mailto:info@cohohub.org.uk) **for more information.**
+### **Project planning, development and ongoing management**
 
-### **Landowners:**
+* Helping with business planning and financial appraisals
+* Advising on project management and liaising with development partners, contractors, and Local Authorities
+* Signposting you to legal and financial services.
 
-* **Site appraisal:** We'll walk you through the planning and financial viability of your site, and help you undertake a housing needs survey to see what the housing needs are in your local community and demonstrate community support for the site.
-* **Finding a Partner Group:** Linking you up with a local community group to purchase and develop the site using the services above.
+## We also offer tailored advice to landowners, developers and Housing Associations
 
-### **Registered Providers (Housing Associations):**
+### **Landowners** 
 
-* **Development opportunities:** We'll bring you a ready-formed group with a site opportunity to help you deliver affordable housing.
-* **Negotiate partnership arrangements:** We'll help you to structure partnership agreements specific to community-led housing groups to share out the risk and benefits of the development.
-* **Technical support:** We'll act as a professional intermediary between the group and the housing association, to facilitate the partnership.
+* **Site appraisal:** exploring the planning and financial viability of your site, investigate local housing needs, and help you demonstrate community support for the site.
+* **Finding a Partner Group:** linking you up with a local community group to purchase and develop the site.
+
+### **Registered Providers (Housing Associations) and developers**
+
+* **Development opportunities:** bringing you a ready-formed group with a site opportunity to help you deliver affordable housing.
+* **Negotiate partnership arrangements:** helping you to structure partnership agreements specific to community-led housing groups to share out the risk and benefits of the development.
+* **Technical support:** acting as a professional intermediary between the group and the housing association, to facilitate the partnership.
+
+**Please get in touch with us -** [**info@cohohub.org.uk**](mailto:info@cohohub.org.uk) **- for more information.**
 
 <div class="pullout-box centre"> <h2>Need help? Have any questions?</h2> <p>Whether you are a group, Local Authority, landowner or potential development partner please do get in touch with our dedicated community-led housing team.</p> <a class="button" href="/contact">Contact us</a> </div>
