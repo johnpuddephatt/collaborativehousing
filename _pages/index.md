@@ -5,13 +5,8 @@ permalink: "/"
 template: home
 strapline: Together we can build homes that work for people and communities
 announcement:
-  title: COVID-19 UPDATE
-  description: "Although our office is currently closed we are still available to
-    support groups so please do continue to get in touch with any questions. \n\nWhilst
-    it is inevitable that the current situation will slow some aspects of projects,
-    this period provides great opportunities for visioning and planning. We are still
-    very happy to support through online meetings and are developing more online training
-    support. "
+  title: ''
+  description: ''
   link: 
 intro:
   subheading: Collaborative Housing provides advice and support so people across the
