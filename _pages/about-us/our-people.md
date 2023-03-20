@@ -1,10 +1,10 @@
 ---
 layout: page
 title: 'Our People '
-subtitle: 'Staff and steering group '
+subtitle: ''
 scripts: ''
----
 
+---
 {% for person in site.data.people.people %}
 <div class="person">
   <img class="person--image" src="{{ person.image }}">
