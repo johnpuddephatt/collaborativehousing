@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Thinking about a Housing Needs Survey?
-image: "/uploads/800px_colourbox9620895.jpg"
+image: /uploads/800px_colourbox9620895.jpg
 tags: []
-
+_template: post
 ---
+
 **What is a Housing Needs Survey and why should your community do one?**
 
 By helping your community or community-led housing group understand the specific housing requirements of residents, an up-to-date Housing Needs Survey can help ensure that your new development best meets local needs. It can be the first step on a journey to new affordable homes.

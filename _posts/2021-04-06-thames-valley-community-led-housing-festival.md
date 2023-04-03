@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Thames-Valley Community-Led Housing Festival '
-image: "/uploads/thames-valley-clh-festival-web-09.png"
+image: /uploads/thames-valley-clh-festival-web-09.png
 tags:
-- Community led housinghousing
-
+  - Community led housinghousing
+_template: post
 ---
+
 We are thrilled to announce that Collaborative Housing is holding a Thames-Valley Community-Led Housing Festival from the 10 to 14 May 2021.
 
 Tell us what you want to hear about and stay updated: [GO TO SURVEY](https://bit.ly/2Owxk5a)

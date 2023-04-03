@@ -1,10 +1,11 @@
 ---
 layout: post
 title: FREE TRAINING WEBINAR- an introduction to community-led housing
-image: "/uploads/sticker.png"
+image: /uploads/sticker.png
 tags: []
-
+_template: post
 ---
+
 Connecting Communities in Berkshire and Collaborative Housing Hub are running a FREE short online course on community-led housing in June. 
 
 **Thursday 4th June, 11am - midday: online webinar**

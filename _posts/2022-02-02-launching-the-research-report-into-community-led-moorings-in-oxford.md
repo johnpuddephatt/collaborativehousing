@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Launching the research report into Community Led Moorings in Oxford '
-image: "/uploads/22337.webp"
+image: /uploads/22337.webp
 tags: []
-
+_template: post
 ---
+
 You may remember us advertising a survey last year that helped inform this research and we are delighted to say we now have a final report on how community led moorings could be delivered in Oxford.
 
 [**READ THE REPORT**](/uploads/unlocking-community-led-moorings-final.pdf "unlocking-community-led-moorings-final.pdf")

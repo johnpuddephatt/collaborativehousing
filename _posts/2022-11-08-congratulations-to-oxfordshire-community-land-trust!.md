@@ -1,14 +1,15 @@
 ---
 layout: post
 title: 'Congratulations to Oxfordshire Community Land Trust!    '
-image: "/uploads/front-cover-png.png"
+image: /uploads/front-cover-png.png
 tags:
-- 'Community '
-- " Community_share_offer "
-- Aoofordable_housing
-- community_land_trust
-
+  - 'Community '
+  - ' Community_share_offer '
+  - Aoofordable_housing
+  - community_land_trust
+_template: post
 ---
+
 **COMMUNITY SHARE OFFER IS NOW OPEN!!**
 
 We are really pleased to be able to promote Oxfordshire Community Land Trust’s launch of their Community Share Offer.

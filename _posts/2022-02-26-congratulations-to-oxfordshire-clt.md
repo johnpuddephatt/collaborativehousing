@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Congratulations to OxfordshireCLT!
-image: "/uploads/picture1.png"
+image: /uploads/picture1.png
 tags: []
-
+_template: post
 ---
+
 OxCLT move to the next stage!
 
 It has been a long and difficult journey to get to this point, however the building can now begin.

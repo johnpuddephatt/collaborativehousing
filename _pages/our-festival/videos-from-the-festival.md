@@ -3,8 +3,9 @@ layout: page
 title: Videos from the festival
 subtitle: ''
 scripts: ''
-
+_template: page
 ---
+
 ### Collaborative housing in the Thames Valley: Meet the successful groups!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1WLrSlMj88I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

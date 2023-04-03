@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Thame CLT – we love it when a plan comes together…
-image: "/uploads/img_20200904_154419.jpg"
+image: /uploads/img_20200904_154419.jpg
 tags: []
-
+_template: post
 ---
+
 Thame Community Land Trust was founded in 2018 with the goal of building genuinely affordable housing to buy or rent which meets the needs of local people.
 
 After two years of hard work, a planning application for 31 homes for sale and rent will be submitted to South Oxfordshire District Council in October. A public exhibition (an exemplary example of social distancing!) was held on the weekend of 5 September. 122 turned up at Thame Town hall to view the site plans and discuss them with members of the CLT.

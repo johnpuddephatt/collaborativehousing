@@ -1,11 +1,13 @@
 ---
 layout: post
-title: New research report - Community Land Trust options at the Oxfordshire Cotswolds
-  Garden Village
-image: "/uploads/capture.JPG"
+title: >-
+  New research report - Community Land Trust options at the Oxfordshire
+  Cotswolds Garden Village
+image: /uploads/capture.JPG
 tags: []
-
+_template: post
 ---
+
 **West Oxfordshire District Council (WODC) recently commissioned Collaborative Housing to undertake a** [**scoping report**](https://www.westoxon.gov.uk/media/avxefy30/community-land-trust-scoping-report-june-2020.pdf "Exploring the options for a Community Land Trust at the Oxfordshire Cotswolds Garden Village ") **that looked into options for delivery and stewardship approaches for a Community Land Trust (CLT) at the Oxfordshire Cotswolds Garden Village (OCGV).** 
 
 Led by Charlie Fisher, the research found a strong desire within the local community for engagement and control through establishing a CLT for long-term stewardship and ownership of assets on the OCGV site.

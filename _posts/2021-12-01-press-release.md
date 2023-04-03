@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Press Release
-image: "/uploads/north-terrace-min.jpg"
+image: /uploads/north-terrace-min.jpg
 tags: []
-
+_template: post
 ---
+
 Collaborative Housing Press Release
 
 New affordable homes for local people – community groups lead the way

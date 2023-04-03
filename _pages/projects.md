@@ -4,8 +4,9 @@ layout: page
 date: '2018-08-30T14:48:48.000+00:00'
 subtitle: Community-led housing schemes supported by Collaborative Housing partners
 scripts: ''
-
+_template: page
 ---
+
 These are some of the projects currently active across the region.
 
 **Oxfordshire Community Land Trust** is developing affordable housing at Deans Court near Botley, Oxford, with eight apartments for affordable rent.
