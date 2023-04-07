@@ -1,11 +1,11 @@
 ---
-title: 'Local resources'
-date: 2018-08-24 09:14:26 +0000
+title: Local resources
+date: 2018-08-24 09:14:26 Z
 subtitle: Links to expertise in different parts of the Thames Valley
 scripts: ''
 layout: page
-
 ---
+
 Organisations and individuals will be added to this list as they join the Collaborative Housing network of advisors. Our objective is to signpost community-led housing groups directly to the expertise that they need.
 
 To join the network please contact [info@communityfirstoxon.org](mailto:info@communityfirstoxon.org) tel 01865 883488 and specify the services that you offer to community-led housing groups.

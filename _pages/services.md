@@ -1,6 +1,6 @@
 ---
-layout: page
 title: 'Our services '
+layout: page
 subtitle: ''
 scripts: ''
 _template: page

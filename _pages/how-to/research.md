@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Research
+date: 2019-01-09 11:20:20 Z
+layout: page
 subtitle: ''
 scripts: ''
-date: '2019-01-09 11:20:20 +0000'
 _template: page
 ---
 

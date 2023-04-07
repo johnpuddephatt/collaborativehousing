@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Funding
+published: false
+layout: page
 subtitle: 'Collaborative Housing '
 scripts: ''
-published: false
 _template: page
 ---
 

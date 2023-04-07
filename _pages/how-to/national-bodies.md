@@ -1,11 +1,11 @@
 ---
 title: Resources for different types of community-led housing
-date: 2018-08-23 09:30:33 +0000
+date: 2018-08-23 09:30:33 Z
 subtitle: Links to national bodies who provide guidance
 scripts: ''
 layout: page
-
 ---
+
 [Community Led Homes]( https://www.communityledhomes.org.uk ) is the ‘one stop’ shop website for community-led housing. Resources for specific types of community-led housing are listed below.
 
 ## Community Land Trusts

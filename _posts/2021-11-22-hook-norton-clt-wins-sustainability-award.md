@@ -1,10 +1,10 @@
 ---
-layout: post
 title: 'Hook Norton CLT wins sustainability award '
+date: 2021-11-22 00:00:00 Z
+layout: post
 image: "/uploads/north-terrace-min.jpg"
-tags: []
-
 ---
+
 We are delighted that Hook Norton CLT won the award in the 2021 National CLT awards 'What a wonderful world' category for sustainability.
 
 Collaborative Housing nominated HNCLT for the way they have used every  opportunity  to create a sustainable scheme; not just in the construction but for the people who will live in the homes and for the wider community. Features include 

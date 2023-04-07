@@ -1,14 +1,15 @@
 ---
-layout: post
 title: Community led housing in the Thames Valley
-image: /uploads/cohohub-festival-programme-12.png
+date: 2021-04-20 00:00:00 Z
 tags:
-  - Conference
-  - Community
-  - housing
-  - rent
-  - affordable
-  - assetbuilding
+- Conference
+- Community
+- housing
+- rent
+- affordable
+- assetbuilding
+layout: post
+image: "/uploads/cohohub-festival-programme-12.png"
 _template: post
 ---
 

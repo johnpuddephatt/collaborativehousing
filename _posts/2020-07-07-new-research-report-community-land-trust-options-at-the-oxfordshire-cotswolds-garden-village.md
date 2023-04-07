@@ -1,10 +1,9 @@
 ---
+title: New research report - Community Land Trust options at the Oxfordshire Cotswolds
+  Garden Village
+date: 2020-07-07 00:00:00 Z
 layout: post
-title: >-
-  New research report - Community Land Trust options at the Oxfordshire
-  Cotswolds Garden Village
-image: /uploads/capture.JPG
-tags: []
+image: "/uploads/capture.JPG"
 _template: post
 ---
 

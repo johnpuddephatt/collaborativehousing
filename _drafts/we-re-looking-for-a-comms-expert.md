@@ -1,10 +1,10 @@
 ---
-layout: post
 title: We're looking for a comms expert...
+date: 2021-02-09 00:00:00 Z
+layout: post
 image: "/uploads/download-1.jpg"
-tags: []
-
 ---
+
 **Are you a communications expert? Help us design and run a community led-housing festival**
 
 Collaborative Housing intends to hold a Thames Valley Community-led Housing Festival in April 2021. The festival will comprise a week-long series of online (Zoom) events (one a day) to be held live and then recorded for future viewing on the Collaborative Housing website. The aim of the event is to raise the profile of the hub and reach as many potential audiences as possible.

@@ -1,6 +1,6 @@
 ---
 title: Resources for Local Authorities
-date: '2018-08-24 14:35:33 +0000'
+date: 2018-08-24 14:35:33 Z
 layout: page
 _template: page
 ---

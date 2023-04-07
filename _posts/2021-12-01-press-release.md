@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Press Release
-image: /uploads/north-terrace-min.jpg
-tags: []
+date: 2021-12-01 00:00:00 Z
+layout: post
+image: "/uploads/north-terrace-min.jpg"
 _template: post
 ---
 

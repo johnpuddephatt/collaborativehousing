@@ -1,8 +1,8 @@
 ---
-layout: post
 title: 'Launching the research report into Community Led Moorings in Oxford '
-image: /uploads/22337.webp
-tags: []
+date: 2022-02-02 00:00:00 Z
+layout: post
+image: "/uploads/22337.webp"
 _template: post
 ---
 

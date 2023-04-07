@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 'Thames-Valley Community-Led Housing Festival '
-image: /uploads/thames-valley-clh-festival-web-09.png
+date: 2021-04-06 00:00:00 Z
 tags:
-  - Community led housinghousing
+- Community led housinghousing
+layout: post
+image: "/uploads/thames-valley-clh-festival-web-09.png"
 _template: post
 ---
 

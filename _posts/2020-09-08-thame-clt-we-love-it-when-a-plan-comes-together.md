@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Thame CLT – we love it when a plan comes together…
-image: /uploads/img_20200904_154419.jpg
-tags: []
+date: 2020-09-08 00:00:00 Z
+layout: post
+image: "/uploads/img_20200904_154419.jpg"
 _template: post
 ---
 

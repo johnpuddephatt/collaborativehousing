@@ -1,8 +1,8 @@
 ---
-layout: post
 title: 'New Research into Opportunities for Community- Led Moorings '
-image: /uploads/22337.webp
-tags: []
+date: 2021-08-18 00:00:00 Z
+layout: post
+image: "/uploads/22337.webp"
 _template: post
 ---
 

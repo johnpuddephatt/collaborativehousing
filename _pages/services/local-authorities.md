@@ -1,11 +1,11 @@
 ---
-layout: page
 title: Our service offer for local authorities
+published: false
+layout: page
 subtitle: Collaborative Housing support
 scripts: ''
-published: false
-
 ---
+
 ### The Collaborative Housing Alliance
 
 # Why should local authorities be interested?

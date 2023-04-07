@@ -1,12 +1,13 @@
 ---
-layout: post
 title: 'Congratulations to Oxfordshire Community Land Trust!    '
-image: /uploads/front-cover-png.png
+date: 2022-11-08 00:00:00 Z
 tags:
-  - 'Community '
-  - ' Community_share_offer '
-  - Aoofordable_housing
-  - community_land_trust
+- 'Community '
+- " Community_share_offer "
+- Aoofordable_housing
+- community_land_trust
+layout: post
+image: "/uploads/front-cover-png.png"
 _template: post
 ---
 

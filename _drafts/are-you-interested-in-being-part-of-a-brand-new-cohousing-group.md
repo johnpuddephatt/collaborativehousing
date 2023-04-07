@@ -1,10 +1,10 @@
 ---
-layout: post
 title: 'Are you interested in being part of a brand new cohousing group '
+date: 2020-11-24 00:00:00 Z
+layout: post
 image: ''
-tags: []
-
 ---
+
 **Cohousing groups are people who come together to design and plan their own small neighbourhood. Each resident will have their own private home and schemes are designed to allow for lots of social interaction through shared space such as a common house and gardens.**
 
 **A new cohousing group is forming in Eynsham, West Oxfordshire with a view to seeking potential land on the Salt Cross Garden Village for the project.**

@@ -1,10 +1,9 @@
 ---
-layout: post
-title: >-
-  What do young people think of their chances of ever being able to afford to
+title: What do young people think of their chances of ever being able to afford to
   live independently?
-image: /uploads/download-2.jpg
-tags: []
+date: 2021-03-16 00:00:00 Z
+layout: post
+image: "/uploads/download-2.jpg"
 _template: post
 ---
 

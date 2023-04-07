@@ -1,10 +1,10 @@
 ---
-layout: post
 title: 'FREE TRAINING - an introduction to Community Led Housing '
+date: 2020-09-17 00:00:00 Z
+layout: post
 image: "/uploads/download.jpg"
-tags: []
-
 ---
+
 **We are holding a FREE online (Zoom) session for communities across Oxfordshire on Thursday 22 October @ 2pm**
 
 Are you a parish council, neighbourhood planning group or other community group interested in finding out more about community led housing? Then why not drop in and find out about:

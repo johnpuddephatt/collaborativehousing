@@ -1,8 +1,8 @@
 ---
-layout: post
 title: FREE TRAINING WEBINAR- an introduction to community-led housing
-image: /uploads/sticker.png
-tags: []
+date: 2020-05-29 00:00:00 Z
+layout: post
+image: "/uploads/sticker.png"
 _template: post
 ---
 

@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Thinking about a Housing Needs Survey?
-image: /uploads/800px_colourbox9620895.jpg
-tags: []
+date: 2021-03-10 00:00:00 Z
+layout: post
+image: "/uploads/800px_colourbox9620895.jpg"
 _template: post
 ---
 

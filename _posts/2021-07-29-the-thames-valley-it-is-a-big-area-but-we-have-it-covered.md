@@ -1,8 +1,8 @@
 ---
-layout: post
 title: The Thames Valley- It is a big area but we have it covered.
-image: /uploads/logo.png
-tags: []
+date: 2021-07-29 00:00:00 Z
+layout: post
+image: "/uploads/logo.png"
 _template: post
 ---
 

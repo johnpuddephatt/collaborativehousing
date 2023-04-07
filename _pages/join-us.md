@@ -1,11 +1,10 @@
 ---
-layout: page
 title: Join us
-subtitle: >-
-  Do you want to see a housing system truly working in collaboration with
+published: false
+layout: page
+subtitle: Do you want to see a housing system truly working in collaboration with
   communities?
 scripts: ''
-published: false
 _template: page
 ---
 

@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Congratulations to OxfordshireCLT!
-image: /uploads/picture1.png
-tags: []
+date: 2022-02-26 00:00:00 Z
+layout: post
+image: "/uploads/picture1.png"
 _template: post
 ---
 

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Videos from the festival
+layout: page
 subtitle: ''
 scripts: ''
 _template: page

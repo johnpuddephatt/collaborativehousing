@@ -1,12 +1,12 @@
 ---
-layout: post
 title: Community-led Moorings and what they can offer.
-image: >-
-  /uploads/screenshot-2022-03-14-at-20-25-43-plan-to-stop-boaters-being-forgotten-and-improve-waterways-to-launch.png
+date: 2022-03-14 00:00:00 Z
 tags:
-  - Community-led moorings
-  - ' affordable housing'
-  - 'Oxford moorings '
+- Community-led moorings
+- " affordable housing"
+- 'Oxford moorings '
+layout: post
+image: "/uploads/screenshot-2022-03-14-at-20-25-43-plan-to-stop-boaters-being-forgotten-and-improve-waterways-to-launch.png"
 _template: post
 ---
 

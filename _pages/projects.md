@@ -1,7 +1,7 @@
 ---
 title: Projects
+date: 2018-08-30 14:48:48 Z
 layout: page
-date: '2018-08-30T14:48:48.000+00:00'
 subtitle: Community-led housing schemes supported by Collaborative Housing partners
 scripts: ''
 _template: page

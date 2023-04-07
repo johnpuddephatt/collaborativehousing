@@ -1,8 +1,8 @@
 ---
-layout: post
 title: 'Community -led housing at scale '
-image: /uploads/graven_hill.jpg
-tags: []
+date: 2022-03-15 00:00:00 Z
+layout: post
+image: "/uploads/graven_hill.jpg"
 _template: post
 ---
 
