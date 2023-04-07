@@ -1,7 +1,4 @@
 ---
----
-
----
 people:
 - image: "/uploads/fb1.jpg"
   name: Fiona Brown
@@ -56,3 +53,4 @@ people:
     councillor for 9 years. She is an active member of the Soha scrutiny committee,
     a member of Thame CLT, and has been involved with community-led housing for more
     than 10 years.
+---

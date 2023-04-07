@@ -1,7 +1,4 @@
 ---
----
-
----
 email: info@communityfirstoxon.org
 footer: Collaborative Housing is a partnership of charities. Community First Oxfordshire
   is a company registered in England and Wales, Company number 2461552. Registered
@@ -10,3 +7,4 @@ date_format: "%d.%m.%y "
 social:
   - twitter: CoHoHub
   - facebook: cohohub
+---
