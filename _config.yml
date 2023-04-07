@@ -30,11 +30,11 @@ gcaptcha: "6LdNn1AUAAAAAA-VLy7CCzufqQi7EhPyoWQwcHIM"
 # data_dir:        _data
 # includes_dir:    _includes
 collections:
-  # posts:
-  #   output: true
-  # pages:
-  #   output: true
-  #   permalink: /:path/index.html
+  posts:
+    output: true
+  pages:
+    output: true
+    permalink: /:path/index.html
 
 # Handling Reading
 # safe:                 false
