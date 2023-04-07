@@ -1,6 +1,6 @@
 ---
 title: 'Community -led opportunities for boat dwellers '
-date: 2023-04-07 10:52:13.171000000 Z
+date: 2023-04-07 10:52:13 Z
 layout: post
 image: "/uploads/22337.webp"
 ---

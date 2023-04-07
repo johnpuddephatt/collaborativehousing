@@ -1,6 +1,6 @@
 ---
 title: A public talk about energy and Climate...
-date: 2023-04-07 10:52:13.143000000 Z
+date: 2023-04-07 10:52:13 Z
 layout: post
 image: "/uploads/energy-prices-climate-crisis_instagram.jpg"
 ---
