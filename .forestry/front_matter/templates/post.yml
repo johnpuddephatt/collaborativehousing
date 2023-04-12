@@ -1,7 +1,4 @@
 ---
----
-
----
 label: Post
 hide_body: false
 fields:
@@ -30,21 +27,17 @@ fields:
 pages:
 - _posts/2020-05-13-introducing-our-communities-lead-fiona-brown.md
 - _posts/2020-05-29-free-training-webinar-an-introduction-to-community-led-housing.md
-- _posts/2020-06-05-getting-the-ball-rolling.md
 - _posts/2020-07-07-new-research-report-community-land-trust-options-at-the-oxfordshire-cotswolds-garden-village.md
 - _posts/2020-09-08-thame-clt-we-love-it-when-a-plan-comes-together.md
-- _posts/2020-09-17-free-training-an-introduction-to-community-led-housing.md
 - _posts/2021-03-10-thinking-about-a-housing-needs-survey.md
 - _posts/2021-03-16-what-do-young-people-think-of-their-chances-of-ever-being-able-to-afford-to-live-independently.md
 - _posts/2021-04-06-thames-valley-community-led-housing-festival.md
 - _posts/2021-04-20-community-led-housing-in-the-thamse-valley.md
 - _posts/2021-07-29-the-thames-valley-it-is-a-big-area-but-we-have-it-covered.md
 - _posts/2021-08-18-new-research-into-opportunities-for-community-led-moorings.md
-- _posts/2021-11-25-another-clh-scheme-gets-planning-approval.md
 - _posts/2021-12-01-press-release.md
 - _posts/2022-02-02-launching-the-research-report-into-community-led-moorings-in-oxford.md
 - _posts/2022-02-26-congratulations-to-oxfordshire-clt.md
 - _posts/2022-03-14-what-floats-your-boat-community-led-moorings-do.md
 - _posts/2022-03-15-community-led-housing-at-scale.md
 - _posts/2022-11-08-congratulations-to-oxfordshire-community-land-trust!.md
-- _posts/a-public-talk-about-energy-and-climate.md

@@ -1,14 +1,14 @@
 ---
-title: 'Our services '
 layout: page
+title: 'Our services '
 subtitle: ''
 scripts: ''
 _template: page
----
 
+---
 **We offer new groups a free, hour-long online session to explore your ideas and give advice on the community-led housing process.**
 
-**For existing groups or those requiring specific advice, we offer an initial - no obligation - chat with one of our** [**expert team**](/about-us/our-people/) **to talk through your needs in more detail and provide a proposal that meets your requirements.**
+**For existing groups or those requiring specific advice, we offer an initial - _no obligation_ - chat with one of our** [**expert team**](/about-us/our-people/) **to talk through your needs in more detail and provide a proposal that meets your requirements.**
 
 Our hands-on advice and technical support covers the whole life-cycle of a project, from initial idea to homes on the ground, developing solutions that work for you.
 
@@ -44,7 +44,7 @@ Our hands-on advice and technical support covers the whole life-cycle of a proje
 
 ## We also offer tailored advice to landowners, developers and Housing Associations
 
-### **Landowners** 
+### **Landowners**
 
 * **Site appraisal:** exploring the planning and financial viability of your site, investigate local housing needs, and help you demonstrate community support for the site.
 * **Finding a Partner Group:** linking you up with a local community group to purchase and develop the site.
