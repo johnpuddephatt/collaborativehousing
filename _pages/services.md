@@ -1,9 +1,9 @@
 ---
-title: 'Our services '
-layout: page
-subtitle: ''
-scripts: ''
+title: Our services
+subtitle: "Services for groups \n"
+scripts: 
 _template: page
+layout: page
 ---
 
 **We offer new groups a free, hour-long online session to explore your ideas and give advice on the community-led housing process.**
