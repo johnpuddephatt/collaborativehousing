@@ -1,8 +1,8 @@
 ---
 title: Latest updates
-layout: posts
 subtitle: The latest news and announcements from Collaborative Housing
-scripts: ''
+scripts: 
+layout: posts
 ---
 
 What do young people think of their chances of being able to afford to live independently?
@@ -11,7 +11,7 @@ Hook Norton has a new blog on the Hook Norton CLT website from Luke Fallon, an A
 
 **What do young people think of their chances of ever being able to afford to live independently?**
 
-**Find out by reading Luke Fallon's blog post here:**
+**Find out by reading Luke's blog post here:**
 
 **  
 **[https://www.hooknortonclt.org.uk/news](https://www.hooknortonclt.org.uk/news "https://www.hooknortonclt.org.uk/news")
