@@ -46,6 +46,7 @@ Our hands-on advice and technical support covers the whole life-cycle of a proje
 
 ### **Local Authorities**
 
+
 We are delighted that Oxfordshire County Council, Cherwell District Council, Oxford City Council, South Oxfordshire District Council, Vale of White Horse District Council and West Oxfordshire District Council are supporting our service through a Service Level Agreement. We are looking forward to building our partnership with them to create a positive enabling environment for community-led housing across Oxfordshire. 
 
 As Local Authorities develop new Local Plans, Collaborative Housing can provide support for the creation of progressive policy support for community-led housing which is vital if there is to be a levelling up for the communities across our region. As part of this agreement we will:
