@@ -1,9 +1,9 @@
 ---
-title: 'Community -led housing at scale '
+title: Community-led housing at scale
 date: 2022-03-15 00:00:00 Z
-layout: post
 image: "/uploads/graven_hill.jpg"
 _template: post
+layout: post
 ---
 
 On the 2nd March Collaborative Housing joined forces with Eastern Community Homes and East Midlands Community-led Housing to host an online event exploring the growth region known as the Oxford-Cambridge Arc and the opportunities for community led approaches. The event was introduced by Councillor Barry Wood, Leader of Cherwell District Council and included case studies from Graven Hill , the UKs largest self build project and Kennet Garden Village where affordable housing is being transferred to a local CLT.
