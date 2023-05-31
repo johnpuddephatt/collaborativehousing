@@ -1,6 +1,6 @@
 ---
 title: New agreement with Local Authorities!
-date: 2023-04-07 10:52:00 Z
+date: 2023-05-31 10:52:00 Z
 image: "/uploads/OIP.jpg"
 layout: post
 ---
