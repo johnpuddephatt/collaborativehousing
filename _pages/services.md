@@ -42,7 +42,18 @@ Our hands-on advice and technical support covers the whole life-cycle of a proje
 * Advising on project management and liaising with development partners, contractors, and Local Authorities
 * Signposting you to legal and financial services.
 
-## We also offer tailored advice to landowners, developers and Housing Associations
+## We also offer tailored advice to Local Authorities, landowners, developers and Housing Associations
+
+### **Local Authorities**
+
+We are delighted that Oxfordshire County Council, Cherwell District Council, Oxford City Council, South Oxfordshire District Council, Vale of White Horse District Council and West Oxfordshire District Council are supporting our service through a Service Level Agreement. We are looking forward to building our partnership with them to create a positive enabling environment for community-led housing across Oxfordshire. 
+
+As Local Authorities develop new Local Plans, Collaborative Housing can provide support for the creation of progressive policy support for community-led housing which is vital if there is to be a levelling up for the communities across our region. As part of this agreement we will:
+
+*Provide networking forums for local authorities to develop best practice in supporting community-led housing
+*Send out quarterly briefing papers on what is happening locally to progress community led schemes across Oxfordshire 
+*Continue to provide outreach events in each local authority area to inform local communities community led housing
+*Continue our free, early-stage support for community-led housing groups. 
 
 ### **Landowners**
 
