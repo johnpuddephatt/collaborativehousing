@@ -6,7 +6,7 @@ _template: page
 layout: page
 ---
 
-**We offer new groups a free, hour-long online session to explore your ideas and give advice on the community-led housing process.**
+**We offer new groups a FREE, hour-long online session to explore your ideas and give advice on the community-led housing process.**
 
 **For existing groups or those requiring specific advice, we offer an initial - _no obligation_ - chat with one of our** [**expert team**](/about-us/our-people/) **to talk through your needs in more detail and provide a proposal that meets your requirements.**
 
