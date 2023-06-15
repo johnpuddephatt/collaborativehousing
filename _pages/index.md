@@ -6,7 +6,7 @@ strapline: Together we can build homes that work for people and communities
 announcement:
   title: Collaborative Housing can help your community meets its housing needs. We
     are hosted by Community First Oxfordshire.
-  description: "[### ](http://www.communityfirstoxon.org/)"
+  description: 
   link: 
 intro:
   subheading: Collaborative Housing provides advice and support so people across the
