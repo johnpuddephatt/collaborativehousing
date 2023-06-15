@@ -1,14 +1,12 @@
 ---
 title: Home
 permalink: "/"
-layout: home
 template: home
 strapline: Together we can build homes that work for people and communities
 announcement:
-  title: People and communities across Oxfordshire are in housing need. Collaborative
-    Housing is a support service for community-led housing projects - we can help
-    your community meets its needs.
-  description: ''
+  title: Collaborative Housing can help your community meets its housing needs. We
+    are hosted by Community First Oxfordshire.
+  description: "[### ](http://www.communityfirstoxon.org/)"
   link: 
 intro:
   subheading: Collaborative Housing provides advice and support so people across the
@@ -51,5 +49,6 @@ why_collaborative_housing:
     subtitle: Houses that work with the environment not against it is our key belief,
       as they play a big role in people’s integration with the environment.
     image: "/uploads/sustainability-01-01.png"
+layout: home
 ---
 
