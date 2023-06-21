@@ -21,3 +21,7 @@ Charlie is an associate of Transition by Design (TbD), a social enterprise and c
 **Kay Sentance**
 
 Kay leads on early-stage community-led housing group support and provides oversight on Hub projects. She has over 25-years-experience of working with communities and youth work through theatre productions, local history exhibitions and public art commissions. Kay has also been an elected parish councillor for 9 years. She is an active member of the Soha scrutiny committee, a member of Thame CLT, and has been involved with community-led housing for more than 10 years.
+
+**Alice Hemming**
+
+Alice Hemming has worked co-operative development and community-led housing since 2015. She is a Co-operative Development Worker for Co-operative Futures and has extensive experience supporting start-up groups develop their governance, strategy and business planning. She is particularly specialised in housing co-operative models and has previously worked with Oxfordshire Community Land Trust. She currently lives in a housing co-operative in Oxford and is an active member of the Radical Routes network for housing co-operatives. 
