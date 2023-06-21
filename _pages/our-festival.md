@@ -1,9 +1,9 @@
 ---
-title: Our Festival
-layout: page
+title: Our people
 subtitle: 'Community Led Housing in the Thames Valley- '
-scripts: ''
+scripts: 
 _template: page
+layout: page
 ---
 
 **![](/uploads/thames-valley-clh-festival-web-09.png)**
