@@ -6,11 +6,6 @@ _template: page
 layout: page
 ---
 
-The aim of Collaborative Housing is to support the development of a pipeline of community-led housing projects across Oxfordshire, Berkshire and Buckinghamshire. The hub is a collaborative effort to ensure a coordinated and efficient approach, striking the right balance between a central point of expertise and practical local delivery.
-
-The hub is hosted by Community First Oxfordshire and is overseen by a steering group which includes those who have experience and in-depth knowledge of CLH. 
-
-
 **Fiona Brown**
 
 Fiona is the Communities Lead at Collaborative Housing providing front line support to groups across the Thames Valley. She has over 30 years’ experience in the management and delivery of affordable housing through Housing Associations and Local Authorities. She is an accredited CLH Advisor through the Institute of Housing.
