@@ -8,7 +8,7 @@ layout: page
 
 **Fiona Brown**
 ![fb1.jpg](/uploads/fb1.jpg)
-Fiona is the Communities Lead at Collaborative Housing providing front line support to groups across the Thames Valley. She has over 30 years’ experience in the management and delivery of affordable housing through Housing Associations and Local Authorities. She is an accredited CLH Advisor through the Institute of Housing
+Fiona is the Communities Lead at Collaborative Housing providing front line support to groups across the Thames Valley. She has over 30 years’ experience in the management and delivery of affordable housing through Housing Associations and Local Authorities. She is an accredited CLH Advisor through the Institute of Housing.
 
 **Tom McCulloch**
 Tom is joint‐CEO of Community First Oxfordshire. He has a Doctorate from the London School of Economics, and a Master’s degree in Sustainable Rural Development. Tom leads on CFO’s housing, social infrastructure and Neighbourhood Planning activity. Tom is former Rural Housing Enabler for the Oxfordshire Rural Housing Partnership, which delivered 500+ RES homes across the county. A former board member of the Cherwell Community Land Trust, Tom has led research on placemaking for multiple clients.
