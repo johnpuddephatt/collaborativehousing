@@ -14,3 +14,6 @@ Tom is joint‐CEO of Community First Oxfordshire. He has a Doctorate from the L
 
 **Charlie Fisher**
 Charlie is an associate of Transition by Design (TbD), a social enterprise and co‐operative working mainly in the community‐led housing (CLH) and low‐carbon architecture sectors. Charlie is trained as an Architect, is currently undertaking a Doctorate at Oxford Brookes University on urban housing delivery models and is a CLH Advisor accredited with Community‐led Homes (all modules). Having undertaken research projects on CLH for Joseph Rowntree Charitable Trust, Power to Change and CAF Venturesome, Charlie’s focus is on action‐research which builds capabilities within communities.
+
+**Kay Sentance**
+Kay leads on Collaborative Housing’s early-stage community-led housing group support and provides oversight on Hub projects. She has over 25-years-experience of working with communities and youth work through theatre productions, local history exhibitions and public art commissions. Kay has also been an elected parish councillor for 9 years. She is an active member of the Soha scrutiny committee, a member of Thame CLT, and has been involved with community-led housing for more than 10 years.
