@@ -7,7 +7,6 @@ layout: page
 ---
 
 **Fiona Brown**
-![fb1.jpg](/uploads/fb1.jpg)
 Fiona is the Communities Lead at Collaborative Housing providing front line support to groups across the Thames Valley. She has over 30 years’ experience in the management and delivery of affordable housing through Housing Associations and Local Authorities. She is an accredited CLH Advisor through the Institute of Housing.
 
 **Tom McCulloch**
