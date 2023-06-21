@@ -1,6 +1,6 @@
 ---
 title: Our people
-subtitle: 'Community Led Housing in the Thames Valley- '
+subtitle: 'Collaborative Housing services are delivered by a team of specialists '
 scripts: 
 _template: page
 layout: page
