@@ -12,7 +12,7 @@ Fiona is the Communities Lead at Collaborative Housing providing front line supp
 
 **Tom McCulloch**
 
-Tom is joint‐CEO of Community First Oxfordshire. He has a Doctorate from the London School of Economics, and a Master’s degree in Sustainable Rural Development. Tom leads on CFO’s housing, social infrastructure and Neighbourhood Planning activity. Tom is former Rural Housing Enabler for the Oxfordshire Rural Housing Partnership, which delivered 500+ RES homes across the county. A former board member of the Cherwell Community Land Trust, Tom has led research on placemaking for multiple clients.
+Tom is joint‐CEO of Community First Oxfordshire. Tom leads on CFO’s housing, social infrastructure and Neighbourhood Planning activity. Tom is former Rural Housing Enabler for the Oxfordshire Rural Housing Partnership, which delivered 500+ RES homes across the county. A former board member of the Cherwell Community Land Trust, Tom has led research on placemaking for multiple clients.
 
 **Charlie Fisher**
 
