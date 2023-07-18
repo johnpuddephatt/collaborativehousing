@@ -1,14 +1,10 @@
 ---
-title: 'Are you interested in being part of a brand new cohousing group '
+title: Congratulations OCLT
 date: 2020-11-24 00:00:00 Z
+image: 
+Field name: 
 layout: post
-image: ''
 ---
 
-**Cohousing groups are people who come together to design and plan their own small neighbourhood. Each resident will have their own private home and schemes are designed to allow for lots of social interaction through shared space such as a common house and gardens.**
-
-**A new cohousing group is forming in Eynsham, West Oxfordshire with a view to seeking potential land on the Salt Cross Garden Village for the project.**
-
-[**https://www.westoxon.gov.uk/planning-and-building/planning-policy/salt-cross-garden-village/**](https://www.westoxon.gov.uk/planning-and-building/planning-policy/salt-cross-garden-village/ "https://www.westoxon.gov.uk/planning-and-building/planning-policy/salt-cross-garden-village/")
-
-**Please do let us know if you are interested in finding out more. We have a workshop for group members on Saturday 28th November.**
+We are delighted that Oxfordshire CLT have now opened their new housing project at Crofts Court. The scheme comprises of 8 affordable, 1 and 2 bedroom flats and the tenants have formed a management co-op to take control of how the homes are managed. 
+This is a trailblazer for Oxfordshire and the results of many years hard work by the CLT. 
