@@ -1,21 +1,8 @@
 ---
-title: We're looking for a comms expert...
+title: Hook Norton CLT homes are under construction
 date: 2021-02-09 00:00:00 Z
-layout: post
 image: "/uploads/download-1.jpg"
+layout: post
 ---
 
-**Are you a communications expert? Help us design and run a community led-housing festival**
-
-Collaborative Housing intends to hold a Thames Valley Community-led Housing Festival in April 2021. The festival will comprise a week-long series of online (Zoom) events (one a day) to be held live and then recorded for future viewing on the Collaborative Housing website. The aim of the event is to raise the profile of the hub and reach as many potential audiences as possible.
-
-We're looking for someone to :
-
-* Liaise with us to finalise the festival programme
-* Liaise with us to identify and approach speakers
-* Run a social media and online publicity campaign
-* Administer festival booking system and set up online sessions
-* Technically facilitate each online festival session
-* Edit recorded sessions and upload to our You Tube channel and website
-
-#### [**CLICK HERE FOR MORE INFORMATION AND HOW TO EXPRESS AN INTEREST**](/uploads/collaborative-housing-clh-festival-invitation-to-quote-february-2021.pdf "collaborative-housing-clh-festival-invitation-to-quote-february-2021.pdf") **-** DEADLINE 28 FEBRUARY 2021
+Despite the very wet weather Hook Norton CLT were pleased to celebrate the progress with their new affordable and sustainable homes for local people in Hook Norton. The event was well attended by the community and the partners including the builder Greencore Homes, partner Housing Association Soha, and Cherwel District Council who transferred the homes. 
