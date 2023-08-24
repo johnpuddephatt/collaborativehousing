@@ -9,12 +9,10 @@ layout: page
 
 These are some of the projects currently active across the region:
 
-**Oxfordshire Community Land Trust** is developing affordable housing at Deans Court near Botley, Oxford, with eight apartments for affordable rent.
+**Oxfordshire Community Land Trust** has just opened a new scheme for affordable housing at Deans Court near Botley, Oxford, with eight apartments for affordable rent. The new residents have formed a management co-op to run the scheme.
 
-**Hook Norton Community Land Trust** has detailed planning permission for 12 apartments and a community building on a piece of land due to be transferred from Cherwell District Council.
+**Hook Norton Community Land Trust** has now started work on a scheme for 12 new homes for local people with a community hub. Completion is due in the Spring of 2024.
 
-**Oxford Cohousing** has been successful in obtaining grant funding from the Homes England Community Housing Fund to enable site appraisals and pre-planning applications on two sites in Oxford.
-
-**Thame Community Land Trust** has carried out appraisal work on a site in Thame with a view to submitting a detailed planning application.
+**Thame Community Land Trust** has now got planning permission for 31 affordable homes and is working with Soha housing to get a builder for the construction.
 
 If you have news about your project please get in touch!
