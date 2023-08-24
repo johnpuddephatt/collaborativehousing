@@ -1,6 +1,6 @@
 ---
 title: Projects
-date: 2018-08-30 14:48:00 Z
+date: 2023-08-24 14:48:00 Z
 subtitle: Community-led housing schemes supported by Collaborative Housing partners
 scripts: 
 _template: page
