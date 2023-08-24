@@ -1,6 +1,6 @@
 ---
 title: Hook Norton CLT homes are under construction
-date: 2021-02-09 00:00:00 Z
+date: 2023-08-24 00:00:00 Z
 image: "/uploads/HN%20progress%20(002).jpg"
 layout: post
 ---
