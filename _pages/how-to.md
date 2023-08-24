@@ -1,12 +1,23 @@
 ---
 title: How to
-date: 2018-08-23 09:30:33 Z
+date: 2023-08-24 09:30:00 Z
 subtitle: Links and resources for making your housing project a reality
-scripts: ''
-layout: page
+scripts: 
 _template: page
+layout: page
 ---
 
-A lot of information is freely accessible and we aim to make this easier to find by providing links.
+Here are some really useful sources of information for your project.
 
-Further guidance will be posted here as they are developed. If you have any links that should be added to these pages please [contact us](/contact) or telephone 01865 883488.
+Community-led homes https://www.communityledhomes.org.uk/
+
+Community Land Trust Network 
+https://www.communitylandtrusts.org.uk/
+
+UK Cohousing
+https://cohousing.org.uk/
+
+Confederation of Cooperative Housing 
+https://www.cch.coop/
+
+If you have any links that should be added to these pages please [contact us](/contact) or telephone 01865 883488.
