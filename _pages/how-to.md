@@ -9,7 +9,7 @@ layout: page
 
 Here are some really useful sources of information for your project.
 
-Community-led homes https://www.communityledhomes.org.uk/
+Community-led Homes https://www.communityledhomes.org.uk/
 
 Community Land Trust Network 
 https://www.communitylandtrusts.org.uk/
